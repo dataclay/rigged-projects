@@ -1,0 +1,1 @@
+Templater–Rigged After Effects Projects by [Dataclay, LLC](www.dataclay.com) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).  Based on work at Dataclay, LLC.

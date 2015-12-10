@@ -1,0 +1,146 @@
+[
+	{
+		"ID": "json_dyn",
+		"title": "Create Dynamic Renders",
+		"caption-1": "Prepare AE projects!",
+		"caption-2": "parameterized rendering",
+		"album-cover": "vangelis-spiral.jpg",
+		"disc-face": "discs/vangelis-spiral.png",
+		"tint": "89B85C"
+	},
+	{
+		"ID": "json_fit",
+		"title": "Automatic Fitting",
+		"caption-1": "Auto scales your data",
+		"caption-2": "to fit your layout",
+		"album-cover": "gatsby.jpg",
+		"disc-face": "discs/gatsby.png",
+		"tint": "684489"
+	},
+	{
+		"ID": "json_easy",
+		"title": "Easy Alignment",
+		"caption-1": "Align dynamic elements",
+		"caption-2": "for perfect renders",
+		"album-cover": "achtung-baby.jpg",
+		"disc-face": "discs/achtung.png",
+		"tint": "D369B3"
+	},
+	{
+		"ID": "json_punc",
+		"title": "Supported Punctuation:,`, ' ; \" !.",
+		"caption-1": "No more string issues now!,",
+		"caption-2": "just type and it appears",
+		"album-cover": "beasties-hot-sauce.jpg.bak",
+		"disc-face": "discs/hot-sauce.png.bak",
+		"tint": "7CF9E8"
+	},
+	{
+		"ID": "json_utf8",
+		"title": "UTF-8 Supported Ü™ß¥¢∏∞≈Ω",
+		"caption-1": "Easily localize your text",
+		"caption-2": "with supporting fonts",
+		"album-cover": "daft-punk.jpg",
+		"disc-face": "discs/daft.png",
+		"tint": "463367"
+	},
+	{
+		"ID": "json_prev",
+		"title": "Preview Specific Jobs",
+		"caption-1": "Preview comp layout",
+		"caption-2": "with any row of data",
+		"album-cover": "a",
+		"disc-face": "a",
+		"tint": "356941"
+	},
+	{
+		"ID": "json_tmpl",
+		"title": "Apply Render Templates",
+		"caption-1": "Use existing render settings",
+		"caption-2": "templates on each render",
+		"album-cover": "a",
+		"disc-face": "a",
+		"tint": "E67373"
+	},
+	{
+		"ID": "json_out",
+		"title": "Use Existing Output Modules",
+		"caption-1": "Use output modules",
+		"caption-2": "for entire batch",
+		"album-cover": "tron.jpg",
+		"disc-face": "discs/tron.png",
+		"tint": "FFFD80"
+	},
+	{
+		"ID": "json_rows",
+		"title": "Target Specific Rows",
+		"caption-1": "Render specific sets",
+		"caption-2": "of jobs from batch",
+		"album-cover": "ennio-morricone.jpg",
+		"disc-face": "discs/ennio.png",
+		"tint": "3C6279"
+	},
+	{
+		"ID": "json_files",
+		"title": "Manage Output Files",
+		"caption-1": "Save batch output",
+		"caption-2": "to any folder",
+		"album-cover": "beasties-hot-sauce.jpg",
+		"disc-face": "discs/hot-sauce.png",
+		"tint": "8951A3"
+	},
+	{
+		"ID": "json_names",
+		"title": "Prefix Output Filenames",
+		"caption-1": "Identify batch renders",
+		"caption-2": "with file prefixes",
+		"album-cover": "rolling-stones.jpg",
+		"disc-face": "discs/stones.png",
+		"tint": "64C767"
+	},
+	{
+		"ID": "json_clean",
+		"title": "Clean Project Panel",
+		"caption-1": "Organizes imported footage",
+		"caption-2": "within project panel",
+		"album-cover": "let-it-be.jpg",
+		"disc-face": "discs/beatles.png",
+		"tint": "203F2A"
+	},
+	{
+		"ID": "json_ease",
+		"title": "Rig AE Project With Ease",
+		"caption-1": "Uses a custom effect",
+		"caption-2": "to tag dynamic layers",
+		"album-cover": "beasties-ill-comm.jpg",
+		"disc-face": "discs/beasties-ill-comm.png",
+		"tint": "5D458A"
+	},
+	{
+		"ID": "json_bigd",
+		"title": "Ready for Big Data",
+		"caption-1": "Makes AE templates",
+		"caption-2": "more flexible",
+		"album-cover": "yes-fragile.jpg",
+		"disc-face": "discs/yes-fragile.png",
+		"tint": "EEE477"
+	},
+	{
+		"ID": "json_target",
+		"title": "Create Targeted Video Ads",
+		"caption-1": "Deliver sets of renders",
+		"caption-2": "for agencies",
+		"album-cover": "yes-oceans.jpg",
+		"disc-face": "discs/yes-oceans.png",
+		"tint": "2D3A1D"
+	},
+	{
+		"ID": "json_sheet",
+		"title": "Google Spreadsheet Support",
+		"caption-1": "Use public or private",
+		"caption-2": "spreadsheet URLs",
+		"album-cover": "beasties-license-to-ill.jpg",
+		"disc-face": "discs/beasties-license-to-ill.png",
+		"tint": "0"
+	}
+]
