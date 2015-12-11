@@ -1,0 +1,13 @@
+id	full-date	render-status	output	reminder	name	month	date	mo-file	date-file	theme-hex	voice-month	voice-date	image	recipient-name-voice
+cal_a	1/15/2015	done	field_trip	Class field trip to science museum	samuel	January	15	jan	15	6AB8DF	month/jan.aiff	date/15.aiff	image/jan.jpg	name/samuel.aiff
+cal_b	2/10/2015	done	bday_party	Daniel's birthday party celebration	aaron	February	10	feb	10	6AB8DF	month/feb.aiff	date/10.aiff	image/feb.jpg	name/aaron.aiff
+cal_c	3/12/2015	done	rake_leaves	Rake leaves and mow grass in front and back yards	william	March	12	mar	12	8ADA66	month/mar.aiff	date/12.aiff	image/mar.jpg	name/william.aiff
+cal_d	4/1/2015	done	cal_d_liza	Shoe shopping for Naomi's wedding	liza	April	1	apr	1	8ADA66	month/apr.aiff	date/01.aiff	image/apr.jpg	name/liza.aiff
+cal_e	5/27/2015	done	cal_e_emma	Final day of ballet instruction class	emma	May	27	may	27	8ADA66	month/may.aiff	date/27.aiff	image/may.jpg	name/emma.aiff
+cal_f	6/19/2015	done	cal_f_joshua	MotoGP races begin	joshua	June	19	jun	19	E2E362	month/jun.aiff	date/19.aiff	image/jun.jpg	name/joshua.aiff
+cal_g	7/5/2015	done	cal_g_talia	Finals for summer school session	talia	July	5	jul	5	E2E362	month/jul.aiff	date/05.aiff	image/jul.jpg	name/talia.aiff
+cal_h	8/11/2015	done	cal_h_rachel	Presenting Q3 project plan	rachel	August	11	aug	11	E2E362	month/aug.aiff	date/11.aiff	image/aug.jpg	name/rachel.aiff
+cal_i	9/22/2015	done	cal_i_benjamin	Swimming at the lake with buddies	benjamin	September	22	sep	22	DD5B3D	month/sep.aiff	date/22.aiff	image/sep.jpg	name/benjamin.aiff
+cal_j	10/29/2015	done	cal_j_andrew	Get brakes adjusted at auto shop	andrew	October	29	oct	29	DD5B3D	month/oct.aiff	date/29.aiff	image/oct.jpg	name/andrew.aiff
+cal_k	11/24/2015	done	cal_k_brian	Get ready for a fantastic get together with family	brian	November	24	nov	24	DD5B3D	month/nov.aiff	date/24.aiff	image/nov.jpg	name/brian.aiff
+cal_l	12/31/2015	done	cal_l_samuel	Write down New Year's resolutions	samuel	December	31	dec	31	6AB8DF	month/dec.aiff	date/31.aiff	image/dec.jpg	name/samuel.aiff
