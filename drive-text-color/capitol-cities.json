@@ -1,0 +1,51 @@
+[
+  {
+    "id": "DCA",
+    "country": "United States",
+    "city": "Washington D.C.",
+    "source-image": "http://www.rantlifestyle.com/wp-content/uploads/2014/05/0-DC.jpg",
+    "hex-color": "EBECF2"
+  },
+  {
+    "id": "TLV",
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "source-image": "https://asset-tilburg.nl/public/upload/marketing/activity/TELAVIV.jpg",
+    "hex-color": "F2E5C5"
+  },
+  {
+    "id": "CDG",
+    "country": "France",
+    "city": "Paris",
+    "source-image": "http://images.huffingtonpost.com/2015-11-19-1447968585-1661590-6672156239_89c77d53d8_o.jpg",
+    "hex-color": "DCB6EF"
+  },
+  {
+    "id": "HND",
+    "country": "Japan",
+    "city": "Tokyo",
+    "source-image": "http://globalxnetwork.com/wp-content/uploads/2015/06/tokyo1.jpg",
+    "hex-color": "EBFFB5"
+  },
+  {
+    "id": "PVG",
+    "country": "China",
+    "city": "Shanghai",
+    "source-image": "http://www.grandviewvacation.com/sites/default/files/grandview_vacation_shanghai.jpg",
+    "hex-color": "FDA4A8"
+  },
+  {
+    "id": "MEX",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "source-image": "http://lenguaycultura.com/wp-content/uploads/2015/03/o-MEXICO-CITY-facebook.jpg",
+    "hex-color": "D73C34"
+  },
+  {
+    "id": "YOW",
+    "country": "Canada",
+    "city": "Ottawa",
+    "source-image": "https://batlgrounds.com/wp-content/uploads/2015/03/Ottawa.jpg",
+    "hex-color": "00E1BE"
+  }
+]
