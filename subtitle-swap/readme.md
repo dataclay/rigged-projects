@@ -17,6 +17,11 @@ This project was created in After Effects 2023.
 
 Templater data is in `Subtitle Swap Data.json`. 
 
+
+> 📝 **Important:** 
+> if you're having issues with all of the subtitles showing at once, as seen in this [forum post](https://forums.dataclay.com/post/877) it may be an issue with GitHub changing the `JSX` file line endings from `CRLF` (Windows) to `LF` (Unix/MacOS)—or vice versa. You can open these files in a free advanced text editor like [Visual Studio Code](https://code.visualstudio.com/download) or [Notepad++](https://notepad-plus-plus.org/downloads/) and convert them to see if the issue is resolved. 
+
+
 ## License
 
 You are free to use and remix the expressions in your own projects. The video samples included are the property of Dataclay. 
