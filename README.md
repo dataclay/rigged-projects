@@ -86,7 +86,7 @@ If you want the real nitty gritty on Templater, head over to [our official docum
 
 ## Contributing
 
-At Dataclay, on of our goals is to create a community of motion designers and developers who want to keep push video automation techniques forward. Do you have an awesome Autograf that you want to share with the community?  If so, feel free to setup a folder structure for your Autograf in the following manner:
+At Dataclay, on of our goals is to create a community of motion designers and developers who want to push video automation techniques forward. Do you have an awesome Autograf that you want to share with the community?  If so, feel free to setup a folder structure for your Autograf in the following manner:
 
 + `My Beautiful Autograf`\
   The root of your Autograf can hold a preview image of what it looks like when opened inside After Effects, similar to the preview images in this readme.  You can also provide a `README.md` file that explains how to use your Autograf.
@@ -102,6 +102,8 @@ At Dataclay, on of our goals is to create a community of motion designers and de
 
   - `/output`\
     A placeholder subfolder users can reference for Templater's output destination. This repository's `.gitignore` will not track any digital assets within the `/output` folder, but it's useful to have as a placeholder for Templater's users.
+
+Issue a pull request and the Dataclay team will review your work to merge it into this repository.  We are grateful for your contribution!
 
 ## Support
 
