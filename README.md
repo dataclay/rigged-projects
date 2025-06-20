@@ -105,4 +105,4 @@ At Dataclay, on of our goals is to create a community of motion designers and de
 
 ## Support
 
-Thank you for testing out these Autografs with Templater!  If you find they do not work for you, please feel free to 
+Thank you for testing out these Autografs with Templater!  If you find they do not work for you, and if you the additional learning resource do not help fix the issues you encounter with these Autografs, please feel free to [contact us via Dataclay's support](https://dataclay.com/contact-us/), or simply add an entry to this repository's issues tab.
