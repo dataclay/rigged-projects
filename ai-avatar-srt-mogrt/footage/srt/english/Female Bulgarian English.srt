@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:01,400
+All data stored in
+
+2
+00:00:01,400 --> 00:00:02,800
+QUE is encrypted at
+
+3
+00:00:02,800 --> 00:00:04,200
+rest and is only
+
+4
+00:00:04,200 --> 00:00:05,600
+decrypted when an authorized
+
+5
+00:00:05,600 --> 00:00:07,000
+client requests the data.
+
+6
+00:00:07,000 --> 00:00:08,894
+QUE has field-level masking
+
+7
+00:00:08,894 --> 00:00:10,789
+methods to prevent unauthorized
+
+8
+00:00:10,789 --> 00:00:12,684
+viewing of specific sensitive
+
+9
+00:00:12,684 --> 00:00:14,578
+information, such as demographic
+
+10
+00:00:14,578 --> 00:00:16,000
+or health data.
+

@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:01,739
+Templater Pro comes with
+
+2
+00:00:01,739 --> 00:00:03,478
+rig functionality, plus features
+
+3
+00:00:03,478 --> 00:00:05,217
+that allow you to
+
+4
+00:00:05,217 --> 00:00:06,956
+batch render or replicate
+
+5
+00:00:06,956 --> 00:00:08,695
+reversioned master compositions using
+
+6
+00:00:08,695 --> 00:00:10,000
+your data source.
+
+7
+00:00:10,000 --> 00:00:11,280
+It's perfect for when
+
+8
+00:00:11,280 --> 00:00:12,560
+your client has a
+
+9
+00:00:12,560 --> 00:00:13,840
+database of customer information
+
+10
+00:00:13,840 --> 00:00:15,120
+and needs a quick
+
+11
+00:00:15,120 --> 00:00:16,400
+response to many unique
+
+12
+00:00:16,400 --> 00:00:17,680
+videos based on that
+
+13
+00:00:17,680 --> 00:00:18,000
+data.
+

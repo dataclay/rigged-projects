@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:01,600
+The Templater bot operates
+
+2
+00:00:01,600 --> 00:00:03,200
+after effects for you.
+
+3
+00:00:03,200 --> 00:00:04,533
+When the bot finds
+
+4
+00:00:04,533 --> 00:00:05,200
+new data,
+
+5
+00:00:05,200 --> 00:00:07,542
+it triggers Templater's customization
+
+6
+00:00:07,542 --> 00:00:09,300
+and rendering process.
+
+7
+00:00:09,300 --> 00:00:10,928
+Developers can create web
+
+8
+00:00:10,928 --> 00:00:12,557
+or mobile apps that
+
+9
+00:00:12,557 --> 00:00:14,185
+feed data into Templater's
+
+10
+00:00:14,185 --> 00:00:15,000
+data source,
+
+11
+00:00:15,000 --> 00:00:17,500
+providing a collaborative, customized
+
+12
+00:00:17,500 --> 00:00:20,000
+video content creation solution.
+

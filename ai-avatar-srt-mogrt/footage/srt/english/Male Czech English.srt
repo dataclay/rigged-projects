@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:01,480
+Start transferring data to
+
+2
+00:00:01,480 --> 00:00:02,960
+QUE and connecting it
+
+3
+00:00:02,960 --> 00:00:03,700
+to Templater.
+
+4
+00:00:03,700 --> 00:00:05,380
+Architect the foundation of
+
+5
+00:00:05,380 --> 00:00:07,060
+your automated video content
+
+6
+00:00:07,060 --> 00:00:07,900
+creation system,
+
+7
+00:00:07,900 --> 00:00:09,390
+and easily manage your
+
+8
+00:00:09,390 --> 00:00:10,881
+dynamic video data as
+
+9
+00:00:10,881 --> 00:00:12,000
+your operation scales.
+

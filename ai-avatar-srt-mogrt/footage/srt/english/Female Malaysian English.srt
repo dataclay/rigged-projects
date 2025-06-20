@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:02,000
+Perhaps most importantly, we
+
+2
+00:00:02,000 --> 00:00:04,000
+believe in your success.
+
+3
+00:00:04,000 --> 00:00:06,153
+Our Templater software isn't
+
+4
+00:00:06,153 --> 00:00:08,307
+just about making video
+
+5
+00:00:08,307 --> 00:00:10,461
+post-production workflows faster and
+
+6
+00:00:10,461 --> 00:00:11,000
+easier,
+
+7
+00:00:11,000 --> 00:00:12,538
+it's about empowering our
+
+8
+00:00:12,538 --> 00:00:14,076
+users to make better
+
+9
+00:00:14,076 --> 00:00:15,615
+videos with richer content
+
+10
+00:00:15,615 --> 00:00:16,000
+experiences.
+

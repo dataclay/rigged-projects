@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:01,272
+Templater can rent a
+
+2
+00:00:01,272 --> 00:00:02,545
+license from a pool
+
+3
+00:00:02,545 --> 00:00:03,818
+of licenses managed by
+
+4
+00:00:03,818 --> 00:00:05,090
+the server software that
+
+5
+00:00:05,090 --> 00:00:06,363
+you install, set up,
+
+6
+00:00:06,363 --> 00:00:07,000
+and activate.
+
+7
+00:00:07,000 --> 00:00:08,600
+When After Effects exits,
+
+8
+00:00:08,600 --> 00:00:10,200
+the Templater license is
+
+9
+00:00:10,200 --> 00:00:11,800
+released and returned to
+
+10
+00:00:11,800 --> 00:00:13,000
+the license pool.
+
+11
+00:00:13,000 --> 00:00:14,391
+If the computer running
+
+12
+00:00:14,391 --> 00:00:15,782
+After Effects is no
+
+13
+00:00:15,782 --> 00:00:17,173
+longer available, the server
+
+14
+00:00:17,173 --> 00:00:18,565
+software will release the
+
+15
+00:00:18,565 --> 00:00:19,956
+license after a user-specified
+
+16
+00:00:19,956 --> 00:00:21,000
+time has elapsed.
+
+17
+00:00:21,000 --> 00:00:22,777
+The server installation files
+
+18
+00:00:22,777 --> 00:00:24,555
+come with Templater's installation
+
+19
+00:00:24,555 --> 00:00:25,000
+files.
+
+20
+00:00:25,000 --> 00:00:26,428
+You will also need
+
+21
+00:00:26,428 --> 00:00:27,857
+to connect the computer's
+
+22
+00:00:27,857 --> 00:00:29,285
+running Templater to the
+
+23
+00:00:29,285 --> 00:00:30,000
+license server.
+

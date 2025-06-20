@@ -1,0 +1,1856 @@
+[
+  {
+    "id": "american_English",
+    "output": "american_English",
+    "locale": "United States",
+    "language": "English",
+    "code": "enUS",
+    "nationality": "American",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Templater is an Adobe After Effects plugin that simplifies and accelerates the process of creating customized videos. It empowers you to quickly and easily produce a large volume of beautiful videos that will resonate with your audience. Templater is a great workflow automation tool for both designers and developers. Its enterprise features provide a fully automated server solution for empowering developers to integrate dynamic video content into their apps.",
+    "srt-data": "srt/native/Female American.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "5ed1cba1e05441139e70121e61056341",
+    "heygen-video": "https://resource.heygen.ai/video/5ed1cba1e05441139e70121e61056341/original",
+    "assembly@egp": {
+      "Headline": "American speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "American"
+      }
+    }
+  },
+  {
+    "id": "american_UnitedKingdomEnglish",
+    "output": "american_UnitedKingdomEnglish",
+    "locale": "United States",
+    "language": "United Kingdom English",
+    "code": "enUK",
+    "nationality": "American",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Templater is an Adobe After Effects plugin that simplifies and accelerates the process of creating customized videos. It empowers you to quickly and easily produce a large volume of beautiful videos that will resonate with your audience. Templater is a great workflow automation tool for both designers and developers. Its enterprise features provide a fully automated server solution for empowering developers to integrate dynamic video content into their apps.",
+    "srt-data": "srt/english/Female American English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "4f9c0d04557947b1a26b6922cc2cebe0",
+    "heygen-video": "https://resource.heygen.ai/video/4f9c0d04557947b1a26b6922cc2cebe0/original",
+    "assembly@egp": {
+      "Headline": "American speaking United Kingdom English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "#FFFFFF",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "United Kingdom English",
+        "Nationality": "British"
+      }
+    }
+  },
+  {
+    "id": "israeli_Hebrew",
+    "output": "israeli_Hebrew",
+    "locale": "Israel",
+    "language": "Hebrew",
+    "code": "he",
+    "nationality": "Israeli",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Templater עובד במצב ניסיון במשך שלושים יום לפני דרישת רכישת רישיון. מצב ניסיון מתחיל בתאריך ההתקנה וכולל את כל התכונות מכל המהדורות.",
+    "srt-data": "srt/native/Female Israeli.srt",
+    "srt-display@style": {
+      "font-face": "NotoSansHebrew-SemiBold",
+      "justification": "center",
+      "direction": "RTL"
+    },
+    "font-face": "NotoSansHebrew-SemiBold",
+    "srt-justification": "center",
+    "srt-text-direction": "RTL",
+    "heygen-id": "0f37ec0aa3ce4ac1ae44dd43f4aea2b5",
+    "heygen-video": "https://resource.heygen.ai/video/0f37ec0aa3ce4ac1ae44dd43f4aea2b5/original",
+    "assembly@egp": {
+      "Headline": "Israeli speaking Hebrew",
+      "SRT Font Size": "50",
+      "SRT BG Color": "",
+      "SRT Shadow Opacity": "",
+      "Labels": {
+        "SRT Language": "Hebrew",
+        "Nationality": "Israeli"
+      }
+    }
+  },
+  {
+    "id": "israeli_English",
+    "output": "israeli_English",
+    "locale": "Israel",
+    "language": "English",
+    "code": "en",
+    "nationality": "Israeli",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Templater works in trial mode for thirty days before requiring the purchase of a license. Trial mode begins upon date of installation and includes all features from all editions.",
+    "srt-data": "srt/english/Female Israeli English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "0b14310de4a0415a8c996227070ee201",
+    "heygen-video": "https://resource.heygen.ai/video/0b14310de4a0415a8c996227070ee201/original",
+    "assembly@egp": {
+      "Headline": "Israeli speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Israeli"
+      }
+    }
+  },
+  {
+    "id": "emerati_Arabic",
+    "output": "emerati_Arabic",
+    "locale": "United Arab Emeriates",
+    "language": "Arabic",
+    "code": "ar",
+    "nationality": "Emerati",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "قم بتوسيع نطاق مصادر بياناتك. يمكنك استخدام QUE كمصدر بياناتك الحصري. فهو يمكّنك من دمج بيانات الفيديو الديناميكية من مصادر داخلية أو خارجية متعددة. يمكنه تلقي البيانات من أي تطبيق أو خدمة من خلال نقاط نهاية واجهة برمجة التطبيقات (API) المكشوفة - تطبيقات الهاتف المحمول، وتطبيقات الويب، والتطبيقات الصوتية - لا حدود لها!! ما عليك سوى كتابة البرنامج النصي الخاص بك للبدء!",
+    "srt-data": "srt/native/Female Emerati.srt",
+    "srt-display@style": {
+      "font-face": "NotoSansArabicCondensed-Black",
+      "justification": "full-center",
+      "direction": "RTL"
+    },
+    "font-face": "NotoSansArabicCondensed-Black",
+    "srt-justification": "full-center",
+    "srt-text-direction": "RTL",
+    "heygen-id": "82405a8e7f2440faa16691936189d8c9",
+    "heygen-video": "https://resource.heygen.ai/video/82405a8e7f2440faa16691936189d8c9/original",
+    "assembly@egp": {
+      "Headline": "Emerati speaking Arabic",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Arabic",
+        "Nationality": "Emerati"
+      }
+    }
+  },
+  {
+    "id": "emerati_English",
+    "output": "emerati_English",
+    "locale": "United Arab Emeriates",
+    "language": "English",
+    "code": "en",
+    "nationality": "Emerati",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Expand your data sources. You can use QUE as your exclusive data source. It enables you to combine dynamic video data from multiple internal or external sources. It can receive data from any application or service through its exposed API endpoints - mobile apps, web apps, voice apps - the sky is the limit! Simply write your own script to get started!",
+    "srt-data": "srt/english/Female Emerati English.srt",
+    "srt-display@style": {
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "fef1a4e0d4114490bdb770ba47054b7d",
+    "heygen-video": "https://resource.heygen.ai/video/fef1a4e0d4114490bdb770ba47054b7d/original",
+    "assembly@egp": {
+      "Headline": "Emerati speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "#7536D8",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "UK English",
+        "Nationality": "Emerati"
+      }
+    }
+  },
+  {
+    "id": "finnish_Finnish",
+    "output": "finnish_Finnish",
+    "locale": "Finland",
+    "language": "Finnish",
+    "code": "fi",
+    "nationality": "Finnish",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Dataclay perustettiin vuonna 2014 yksinkertaisella, mutta tärkeällä tehtävällä: vapauttaa videosisällön tekijät vähäpätöisten tietojen syöttämisen tehottomuudesta ja antaa heille mahdollisuus kehittää suurempia määriä laadukkaampaa sisältöä lyhyemmässä ajassa ja halvemmalla.",
+    "srt-data": "srt/native/Male Finnish.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "674d6aeeeee14463a7efa9909364ad6c",
+    "heygen-video": "https://resource.heygen.ai/video/674d6aeeeee14463a7efa9909364ad6c/original",
+    "assembly@egp": {
+      "Headline": "Finnish speaking Finnish",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Finnish",
+        "Nationality": "Finnish"
+      }
+    }
+  },
+  {
+    "id": "finnish_English",
+    "output": "finnish_English",
+    "locale": "Finland",
+    "language": "English",
+    "code": "en",
+    "nationality": "Finnish",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Dataclay was founded in 2014 with a simple but important mission: to free video content creators from the inefficiencies of menial data entry, empowering them to develop greater quantities of higher quality content in less time, and with less cost.",
+    "srt-data": "srt/english/Male Finnish English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "2a087d490b2a49aa9e93dc98be62c9c1",
+    "heygen-video": "https://resource.heygen.ai/video/2a087d490b2a49aa9e93dc98be62c9c1/original",
+    "assembly@egp": {
+      "Headline": "Finnish speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Finnish"
+      }
+    }
+  },
+  {
+    "id": "chinesemandarin_Chinese-Mandarin",
+    "output": "chinesemandarin_Chinese-Mandarin",
+    "locale": "Taiwan",
+    "language": "Chinese-Mandarin",
+    "code": "zh",
+    "nationality": "Chinese Mandarin",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "卫星是运行您环境中的 After Effects 实例的独特机器，可通过 Templater Bot 与 QUE 交互。您可以指定哪个卫星将处理每个活动或作业，从而让您能够高效地分配渲染资源。",
+    "srt-data": "srt/native/Male Chinese Mandarin.srt",
+    "srt-display@style": {
+      "font-face": "AZPPT_1_1436212_19",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "AZPPT_1_1436212_19",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "9dbf0098ecd0402ab4970269c5707d5a",
+    "heygen-video": "https://resource.heygen.ai/video/9dbf0098ecd0402ab4970269c5707d5a/original",
+    "assembly@egp": {
+      "Headline": "Chinese Mandarin speaking Chinese-Mandarin",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Mandarin",
+        "Nationality": "Chinese"
+      }
+    }
+  },
+  {
+    "id": "chinesemandarin_English",
+    "output": "chinesemandarin_English",
+    "locale": "Taiwan",
+    "language": "English",
+    "code": "en",
+    "nationality": "Chinese Mandarin",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Satellites are unique machines that run instances of After Effects in your environment and interact with QUE through the Templater Bot. You can specify which Satellite will handle each activity or job, allowing you to allocate rendering resources efficiently.",
+    "srt-data": "srt/english/Male Chinese Mandarin English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "2091272ec4af4d14ba5640c178ec5902",
+    "heygen-video": "https://resource.heygen.ai/video/2091272ec4af4d14ba5640c178ec5902/original",
+    "assembly@egp": {
+      "Headline": "Chinese Mandarin speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Chinese"
+      }
+    }
+  },
+  {
+    "id": "bulgarian_Bulgarian",
+    "output": "bulgarian_Bulgarian",
+    "locale": "Bulgaria",
+    "language": "Bulgarian",
+    "code": "bg",
+    "nationality": "Bulgarian",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Всички данни, съхранявани в QUE, са криптирани в покой и се декриптират само когато оторизиран клиент поиска данните. QUE разполага с методи за маскиране на ниво поле за предотвратяване на неоторизиран преглед на специфична чувствителна информация, като демографски или здравни данни.",
+    "srt-data": "srt/native/Female Bulgarian.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "57d0e0ed21794311b1ab4004a0960a82",
+    "heygen-video": "https://resource.heygen.ai/video/57d0e0ed21794311b1ab4004a0960a82/original",
+    "assembly@egp": {
+      "Headline": "Bulgarian speaking Bulgarian",
+      "SRT Font Size": "50",
+      "SRT BG Color": "",
+      "SRT Shadow Opacity": "",
+      "Labels": {
+        "SRT Language": "Bulgarian",
+        "Nationality": "Bulgarian"
+      }
+    }
+  },
+  {
+    "id": "bulgarian_English",
+    "output": "bulgarian_English",
+    "locale": "Bulgaria",
+    "language": "English",
+    "code": "en",
+    "nationality": "Bulgarian",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "All data stored in QUE is encrypted at rest and is only decrypted when an authorized client requests the data. QUE has field-level masking methods to prevent unauthorized viewing of specific sensitive information, such as demographic or health data.",
+    "srt-data": "srt/english/Female Bulgarian English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "de7f93ff8cd04a3b8066c061248dfefa",
+    "heygen-video": "https://resource.heygen.ai/video/de7f93ff8cd04a3b8066c061248dfefa/original",
+    "assembly@egp": {
+      "Headline": "Bulgarian speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Bulgarian"
+      }
+    }
+  },
+  {
+    "id": "bosnian_Croatian",
+    "output": "bosnian_Croatian",
+    "locale": "Bosnia",
+    "language": "Croatian",
+    "code": "hr",
+    "nationality": "Bosnian",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "QUE uključuje API koji olakšava izradu aplikacija koje integriraju dinamičke videozapise. To otvara svijet mogućnosti za uzbudljiva nova iskustva kupaca i potpuno nove poslovne modele. Najbolje od svega, ne morate biti programer softvera da biste koristili API.",
+    "srt-data": "srt/native/Female Bosnian.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "47b3eaafcc4b4309a1b662ca16d6f35d",
+    "heygen-video": "https://resource.heygen.ai/video/47b3eaafcc4b4309a1b662ca16d6f35d/original",
+    "assembly@egp": {
+      "Headline": "Bosnian speaking Croatian",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Croatian",
+        "Nationality": "Bosnian"
+      }
+    }
+  },
+  {
+    "id": "bosnian_English",
+    "output": "bosnian_English",
+    "locale": "Bosnia",
+    "language": "English",
+    "code": "en",
+    "nationality": "Bosnian",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "QUE includes an API that makes it easy to build apps that integrate dynamic videos. This opens a world of possibilities for exciting new customer experiences and entirely new business models. Best of all, you don’t need to be a software developer to use the API.",
+    "srt-data": "srt/english/Female Bosnian English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "a64b81e8e9934fc794eac7870c453879",
+    "heygen-video": "https://resource.heygen.ai/video/a64b81e8e9934fc794eac7870c453879/original",
+    "assembly@egp": {
+      "Headline": "Bosnian speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Bosnian"
+      }
+    }
+  },
+  {
+    "id": "czech_Czech",
+    "output": "czech_Czech",
+    "locale": "Czech Republic ",
+    "language": "Czech",
+    "code": "cs",
+    "nationality": "Czech",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Začněte přenášet data do QUE a připojovat je k Templater. Vytvořte architekturu základu vašeho systému pro automatickou tvorbu videoobsahu a snadno spravujte svá dynamická videodata, jak se vaše operace škáluje.",
+    "srt-data": "srt/native/Male Czech.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "35fc03758fcb429183f045da82081c89",
+    "heygen-video": "https://resource.heygen.ai/video/35fc03758fcb429183f045da82081c89/original",
+    "assembly@egp": {
+      "Headline": "Czech speaking Czech",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Czech",
+        "Nationality": "Czech"
+      }
+    }
+  },
+  {
+    "id": "czech_English",
+    "output": "czech_English",
+    "locale": "Czech Republic ",
+    "language": "English",
+    "code": "en",
+    "nationality": "Czech",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Get started piping data into QUE and connecting it to Templater. Architect the foundation of your automatic video content creation system and easily manage your dynamic video data as your operation scales.",
+    "srt-data": "srt/english/Male Czech English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "9857cc265eef4530b5c92b76d788a1c7",
+    "heygen-video": "https://resource.heygen.ai/video/9857cc265eef4530b5c92b76d788a1c7/original",
+    "assembly@egp": {
+      "Headline": "Czech speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Czech"
+      }
+    }
+  },
+  {
+    "id": "dane_Danish",
+    "output": "dane_Danish",
+    "locale": "Denmark",
+    "language": "Danish",
+    "code": "da",
+    "nationality": "Dane",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Kampagner er samlinger af job, der holder dine data organiserede og sikre. Et bureau kan f.eks. have én kampagne for hver af sine kunder og kan kun give adgang til en bestemt kampagne til brugere, der er autoriseret til at arbejde på den.",
+    "srt-data": "srt/native/Female Dane.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "2dff6c60c0154b2f8cebd2a325da526f",
+    "heygen-video": "https://resource.heygen.ai/video/2dff6c60c0154b2f8cebd2a325da526f/original",
+    "assembly@egp": {
+      "Headline": "Dane speaking Danish",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Danish",
+        "Nationality": "Dane"
+      }
+    }
+  },
+  {
+    "id": "dane_English",
+    "output": "dane_English",
+    "locale": "Denmark",
+    "language": "English",
+    "code": "en",
+    "nationality": "Dane",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Campaigns are collections of jobs that keep your data organized and secure. An agency can, for example, have one campaign for each of its customers and can only grant access to a particular campaign to users authorized to work on it.",
+    "srt-data": "srt/english/Female Dane English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "2e952a06a5624d4a8f3cf91dca847fcc",
+    "heygen-video": "https://resource.heygen.ai/video/2e952a06a5624d4a8f3cf91dca847fcc/original",
+    "assembly@egp": {
+      "Headline": "Dane speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Dane"
+      }
+    }
+  },
+  {
+    "id": "dutch_Dutch",
+    "output": "dutch_Dutch",
+    "locale": "Netherlands",
+    "language": "Dutch",
+    "code": "nl",
+    "nationality": "Dutch",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Projector stuurt uw creaties moeiteloos vanuit Templater naar een groot aantal bestemmingen Amazon S3, Vimeo, JW Player, en met de integratie van Google Spreadsheets wordt uw workflow intuïtiever dan ooit.",
+    "srt-data": "srt/native/Female Dutch.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "e976f169755142e9b54846609783c132",
+    "heygen-video": "https://resource.heygen.ai/video/e976f169755142e9b54846609783c132/original",
+    "assembly@egp": {
+      "Headline": "Dutch speaking Dutch",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Dutch",
+        "Nationality": "Dutch"
+      }
+    }
+  },
+  {
+    "id": "dutch_English",
+    "output": "dutch_English",
+    "locale": "Netherlands",
+    "language": "English",
+    "code": "en",
+    "nationality": "Dutch",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Projector effortlessly sends your creations from Templater to a myriad of destinations Amazon S3, Vimeo, JW Player, Mux, and with Google Sheets integration, your workflow is set to become more intuitive than ever.",
+    "srt-data": "srt/english/Female Dutch English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "0cf4fee8240f43838c3262a9e185f96b",
+    "heygen-video": "https://resource.heygen.ai/video/0cf4fee8240f43838c3262a9e185f96b/original",
+    "assembly@egp": {
+      "Headline": "Dutch speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Dutch"
+      }
+    }
+  },
+  {
+    "id": "fillipino_Fillipino",
+    "output": "fillipino_Fillipino",
+    "locale": "Philippines",
+    "language": "Fillipino",
+    "code": "fp",
+    "nationality": "Fillipino",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Para sa iyong \"mga wrangler sa pag-render\" diyan, nagbibigay ang QUE ng dashboard upang mabantayan ang estado ng iyong mga operasyon sa pag-render. Sa isang sulyap, makikita mo ang status ng bawat trabaho, mga rate ng paggamit ng bawat rendering machine, kung kailan huling aktibo ang bawat machine, at higit pa.",
+    "srt-data": "srt/native/Male Fillipino.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "e4d2f46d99d5429e9ecf2ca5bbe3fdab",
+    "heygen-video": "https://resource.heygen.ai/video/e4d2f46d99d5429e9ecf2ca5bbe3fdab/original",
+    "assembly@egp": {
+      "Headline": "Fillipino speaking Fillipino",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Fillipino",
+        "Nationality": "Fillipino"
+      }
+    }
+  },
+  {
+    "id": "fillipino_English",
+    "output": "fillipino_English",
+    "locale": "Philippines",
+    "language": "English",
+    "code": "en",
+    "nationality": "Fillipino",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "For you “render wranglers” out there, QUE provides a dashboard to keep an eye on the state of your rendering operations. At a glance, you can see the status of each job, utilization rates of each rendering machine, when each machine was last active, and more.",
+    "srt-data": "srt/english/Male Fillipino English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "e44601f5a3624ae58f0a776308d36a31",
+    "heygen-video": "https://resource.heygen.ai/video/e44601f5a3624ae58f0a776308d36a31/original",
+    "assembly@egp": {
+      "Headline": "Fillipino speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Fillipino"
+      }
+    }
+  },
+  {
+    "id": "french_French",
+    "output": "french_French",
+    "locale": "France",
+    "language": "French",
+    "code": "fr",
+    "nationality": "French",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Le projecteur réduit considérablement le temps nécessaire à la mise en ligne de votre contenu multimédia, garantissant ainsi à votre public de recevoir son contenu plus rapidement et plus efficacement. Son transcodage intégré signifie que vos médias sont optimisés pour répondre aux exigences exactes de leur destination, garantissant ainsi une livraison impeccable à chaque fois. Nous savons que la sécurité de vos données est primordiale. L'option d'installation locale du projecteur vous offre une tranquillité d'esprit, en gardant vos flux de travail sensibles sécurisés et confinés.",
+    "srt-data": "srt/native/Male French.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "b430ae94ba93465199a5253047b84cda",
+    "heygen-video": "https://resource.heygen.ai/video/b430ae94ba93465199a5253047b84cda/original",
+    "assembly@egp": {
+      "Headline": "French speaking French",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "French",
+        "Nationality": "French"
+      }
+    }
+  },
+  {
+    "id": "french_English",
+    "output": "french_English",
+    "locale": "France",
+    "language": "English",
+    "code": "en",
+    "nationality": "French",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Projector dramatically reduces the time it takes to go live with your media content, ensuring your audience receives their content, faster and more efficiently. It's built-in transcoding means your media is optimized to meet the exact requirements of its destination, ensuring flawless delivery, every time. We know your data security is paramount. Projector’s local installation option offers you peace of mind, keeping your sensitive workflows secure and contained.",
+    "srt-data": "srt/english/Male French English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "771d04f436b24e71b0d5e82d37b71bd8",
+    "heygen-video": "https://resource.heygen.ai/video/771d04f436b24e71b0d5e82d37b71bd8/original",
+    "assembly@egp": {
+      "Headline": "French speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "French"
+      }
+    }
+  },
+  {
+    "id": "german_German",
+    "output": "german_German",
+    "locale": "Germany",
+    "language": "German",
+    "code": "de",
+    "nationality": "German",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Templater Bot, seine Befehlszeilenschnittstelle und seine API ermöglichen Ihnen die vollautomatische Erstellung von maßgeschneiderten Videos auf Abruf. Unsere Software wird weltweit von kleinen Studios und großen Unternehmen wie Netflix, Apple, NBCUniversal, Electronic Arts, der NFL und SXSW verwendet. Wir pflegen auch aktiv einige öffentliche GitHub-Repositories, die vorinstallierte After Effects-Projekte, Befehlszeilenschnittstellen-Dienstprogramme und verschiedene Skripte enthalten, die in die Prozesse von Templater eingebunden werden.",
+    "srt-data": "srt/native/Female German.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "9928349a5bb24a0d92cc842205de879d",
+    "heygen-video": "https://resource.heygen.ai/video/9928349a5bb24a0d92cc842205de879d/original",
+    "assembly@egp": {
+      "Headline": "German speaking German",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "German",
+        "Nationality": "German"
+      }
+    }
+  },
+  {
+    "id": "german_English",
+    "output": "german_English",
+    "locale": "Germany",
+    "language": "English",
+    "code": "en",
+    "nationality": "German",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Templater Bot, its command line interface, and its API allow you to fully-automate the creation of customized video on-demand. Our software is used all over the world by small studios and large enterprises like Netflix, Apple, NBCUniversal, Electronic Arts, the NFL, and SXSW. ",
+    "srt-data": "srt/english/Female German English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "8894677395054922854eb10df333f12d",
+    "heygen-video": "https://resource.heygen.ai/video/8894677395054922854eb10df333f12d/original",
+    "assembly@egp": {
+      "Headline": "German speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "German"
+      }
+    }
+  },
+  {
+    "id": "greek_Greek",
+    "output": "greek_Greek",
+    "locale": "Greece",
+    "language": "Greek",
+    "code": "el",
+    "nationality": "Greek",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Ο προβολέας, η τελευταία καινοτομία της Dataclay, είναι εδώ για να φέρει επανάσταση στον τρόπο διανομής των πολυμέσων σας. Όπως ακριβώς ο συνονόματός του από την εποχή του κινηματογράφου, ο Προβολέας μας προσφέρει το όραμα ενός δημιουργού στο κοινό του. Και ως ένα απρόσκοπτο συμπλήρωμα του διάσημου Templater για After Effects, ο Προβολέας δεν είναι απλώς ένα εργαλείο. είναι η πύλη σας για πρωτοφανή αποτελεσματικότητα στο χειρισμό μέσων.",
+    "srt-data": "srt/native/Male Greek.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "0023200cc131495bb5ce447bf7193839",
+    "heygen-video": "https://resource.heygen.ai/video/0023200cc131495bb5ce447bf7193839/original",
+    "assembly@egp": {
+      "Headline": "Greek speaking Greek",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Greek",
+        "Nationality": "Greek"
+      }
+    }
+  },
+  {
+    "id": "greek_English",
+    "output": "greek_English",
+    "locale": "Greece",
+    "language": "English",
+    "code": "en",
+    "nationality": "Greek",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Projector, the latest innovation from Dataclay, is here to revolutionize how you distribute your media. Much like its namesake from the film age, our Projector delivers a creator's vision to their audience. And as a seamless complement to our renowned Templater for After Effects, Projector is not just a tool; it's your gateway to unprecedented efficiency in media handling.",
+    "srt-data": "srt/english/Male Greek English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "a2b7504680df4cd79a5cdd17b4ba8d03",
+    "heygen-video": "https://resource.heygen.ai/video/a2b7504680df4cd79a5cdd17b4ba8d03/original",
+    "assembly@egp": {
+      "Headline": "Greek speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Greek"
+      }
+    }
+  },
+  {
+    "id": "indian_Hindi",
+    "output": "indian_Hindi",
+    "locale": "India",
+    "language": "Hindi",
+    "code": "hi",
+    "nationality": "Indian",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "जॉब्स गुणों का एक सेट है जिसे एक या अधिक After Effects टेम्प्लेट पर लागू किया जा सकता है। इन गुणों में आपके वीडियो के अनुकूलन डेटा के साथ-साथ After Effects को उन्हें कैसे प्रस्तुत करना चाहिए, इसके लिए कॉन्फ़िगरेशन शामिल हैं, जैसे रिज़ॉल्यूशन सेटिंग और आउटपुट फ़ॉर्मेट।",
+    "srt-data": "srt/native/Male Indian.srt",
+    "srt-display@style": {
+      "font-face": "Hind-SemiBold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "Hind-SemiBold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "760e6dc9c77743c5b45fe06eb3228d74",
+    "heygen-video": "https://resource.heygen.ai/video/760e6dc9c77743c5b45fe06eb3228d74/original",
+    "assembly@egp": {
+      "Headline": "Indian speaking Hindi",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Hindi",
+        "Nationality": "Indian"
+      }
+    }
+  },
+  {
+    "id": "indian_English",
+    "output": "indian_English",
+    "locale": "India",
+    "language": "English",
+    "code": "en",
+    "nationality": "Indian",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Jobs are a set of properties that can be applied to one or more After Effects templates. These properties contain optimization data for your videos as well as configurations for how After Effects should render them, such as resolution settings and output formats.",
+    "srt-data": "srt/english/Male Indian English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "2960a2e660904babb0d4c74275d42444",
+    "heygen-video": "https://resource.heygen.ai/video/2960a2e660904babb0d4c74275d42444/original",
+    "assembly@egp": {
+      "Headline": "Indian speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Indian"
+      }
+    }
+  },
+  {
+    "id": "indonesian_Indonesian",
+    "output": "indonesian_Indonesian",
+    "locale": "Indonesia",
+    "language": "Indonesian",
+    "code": "id",
+    "nationality": "Indonesian",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Templater dibuat untuk meningkatkan proses dan alur kerja produksi video bertarget berdasarkan berbagai sumber data eksternal. Ketika organisasi menambang dan menyimpan lebih banyak informasi, mereka memerlukan cara untuk memanfaatkan data ini untuk menciptakan hubungan yang bermakna dengan pelanggan di pasar di seluruh dunia. Data besar dapat mendorong konten media, namun produser video memerlukan cara untuk dengan mudah memasukkan informasi ke dalam video khusus tanpa harus repot mengganti aset satu per satu.",
+    "srt-data": "srt/native/Male Indonesian.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "f2b211008c0d46e79b392b3d35e22315",
+    "heygen-video": "https://resource.heygen.ai/video/f2b211008c0d46e79b392b3d35e22315/original",
+    "assembly@egp": {
+      "Headline": "Indonesian speaking Indonesian",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Indonesian",
+        "Nationality": "Indonesian"
+      }
+    }
+  },
+  {
+    "id": "indonesian_English",
+    "output": "indonesian_English",
+    "locale": "Indonesia",
+    "language": "English",
+    "code": "en",
+    "nationality": "Indonesian",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Templater was made to improve the process and workflow of producing targeted video based on various external data sources. As organizations mine and store more information, they need ways of leveraging this data to create meaningful connections with customers in markets across the world. Big data can drive media content, but video producers need a way to easily insert information into custom video without tediously replacing assets one by one.  It's great for content creators who want to maximize their video messaging by efficiently customizing and personalizing content and distributing it to specific market segments or individuals.",
+    "srt-data": "srt/english/Male Indonesian English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "c419c54e5d3a4b2aa182221a058aa133",
+    "heygen-video": "https://resource.heygen.ai/video/c419c54e5d3a4b2aa182221a058aa133/original",
+    "assembly@egp": {
+      "Headline": "Indonesian speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Indonesian"
+      }
+    }
+  },
+  {
+    "id": "italian_Italian",
+    "output": "italian_Italian",
+    "locale": "Italy",
+    "language": "Italian",
+    "code": "it",
+    "nationality": "Italian",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Templater viene fornito con un effetto personalizzato e un pannello installato nelle cartelle dell'applicazione After Effects, integrandosi perfettamente nel normale flusso di lavoro degli utenti. Gli utenti inseriscono i dati di personalizzazione direttamente in After Effects da un'origine dati. Templater può leggere file semplici delimitati da tabulazioni, documenti di Fogli Google o file di testo in formato JSON. Gli utenti contrassegnano i livelli di composizione video come dinamici con un effetto personalizzato e quindi mappano i dati del foglio di calcolo su tali livelli.",
+    "srt-data": "srt/native/Male Italian.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "e592c7bd9eb649e1a0ae686fe8109fc4",
+    "heygen-video": "https://resource.heygen.ai/video/e592c7bd9eb649e1a0ae686fe8109fc4/original",
+    "assembly@egp": {
+      "Headline": "Italian speaking Italian",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Italian",
+        "Nationality": "Italian"
+      }
+    }
+  },
+  {
+    "id": "italian_English",
+    "output": "italian_English",
+    "locale": "Italy",
+    "language": "English",
+    "code": "en",
+    "nationality": "Italian",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Templater ships with a custom effect and a panel installed into After Effects' application folders, integrating seamlessly into users’ normal workflow. Users feed customization data directly into After Effects from a data source. Templater can read flat tab-delimited files, Google Sheets documents, or JSON-formatted text files. Users tag video composition layers as dynamic with a custom effect and then map spreadsheet data to those layers.",
+    "srt-data": "srt/english/Male Italian English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "c24d5339aafa4c25af193dba62000822",
+    "heygen-video": "https://resource.heygen.ai/video/c24d5339aafa4c25af193dba62000822/original",
+    "assembly@egp": {
+      "Headline": "Italian speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Italian"
+      }
+    }
+  },
+  {
+    "id": "s",
+    "output": "japanese_Japanese",
+    "locale": "Japan",
+    "language": "Japanese",
+    "code": "ja",
+    "nationality": "Japanese",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "私たちのチームは、デザイン、視覚効果、ソフトウェア開発の分野で豊富な経験を持つメンバーで構成されています。私たちは力を合わせて、テクノロジー、コミュニケーション、メディアに対する才能、専門知識、情熱を Dataclay にもたらします。",
+    "srt-data": "srt/native/Female Japanese.srt",
+    "srt-display@style": {
+      "font-face": "ToppanBunkyuGothicPr6N-DB",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "ToppanBunkyuGothicPr6N-DB",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "68722e89116d4450abf98504ea948616",
+    "heygen-video": "https://resource.heygen.ai/video/68722e89116d4450abf98504ea948616/original",
+    "assembly@egp": {
+      "Headline": "Japanese speaking Japanese",
+      "SRT Font Size": "45",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Japanese",
+        "Nationality": "Japanese"
+      }
+    }
+  },
+  {
+    "id": "japanese_English",
+    "output": "japanese_English",
+    "locale": "Japan",
+    "language": "English",
+    "code": "en",
+    "nationality": "Japanese",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Our team is comprised of individuals with strong backgrounds in design, visual effects and software development. Together, we bring to Dataclay our talents, expertise, and passion for technology, communication, and media.",
+    "srt-data": "srt/english/Female Japanese English.srt",
+    "srt-display@style": {
+      "font-face": "SpaceGrotesk-Regular",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "SpaceGrotesk-Regular",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "ff3a56d5796d4ce8880512cab759a0f4",
+    "heygen-video": "https://resource.heygen.ai/video/ff3a56d5796d4ce8880512cab759a0f4/original",
+    "assembly@egp": {
+      "Headline": "Japanese speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Japanese"
+      }
+    }
+  },
+  {
+    "id": "korean_Korean",
+    "output": "korean_Korean",
+    "locale": "Korea",
+    "language": "Korean",
+    "code": "ko",
+    "nationality": "Korean",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "우리는 창의성과 기술을 믿습니다. 우리의 목표는 콘텐츠 제작자의 생활과 콘텐츠 소비자의 경험을 향상시키는 것입니다. 우리는 사용자가 자신의 작업에 즐거움을 느끼고 청중이 결과물에 연결되기를 바랍니다.",
+    "srt-data": "srt/native/Male Korean.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "5e5bdda364914bbea3de21ac107740ef",
+    "heygen-video": "https://resource.heygen.ai/video/5e5bdda364914bbea3de21ac107740ef/original",
+    "assembly@egp": {
+      "Headline": "Korean speaking Korean",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Korean",
+        "Nationality": "Korean"
+      }
+    }
+  },
+  {
+    "id": "korean_English",
+    "output": "korean_English",
+    "locale": "Korea",
+    "language": "English",
+    "code": "en",
+    "nationality": "Korean",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "We believe in creativity and craft. Our goal is to improve the livelihood of content creators and the experience of content consumers. We want our users to delight in their work and audiences to connect with their output.",
+    "srt-data": "srt/english/Male Korean English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "8d47a78512894534a1c1a02c11f92476",
+    "heygen-video": "https://resource.heygen.ai/video/8d47a78512894534a1c1a02c11f92476/original",
+    "assembly@egp": {
+      "Headline": "Korean speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Korean"
+      }
+    }
+  },
+  {
+    "id": "malaysian_Malay",
+    "output": "malaysian_Malay",
+    "locale": "Malaysia",
+    "language": "Malay",
+    "code": "ms",
+    "nationality": "Malaysian",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Mungkin yang paling penting, kami percaya dengan kejayaan anda. Perisian Templater kami bukan sahaja tentang menjadikan aliran kerja pasca pengeluaran video dengan lebih pantas dan lebih mudah—ia adalah mengenai memperkasakan pengguna kami untuk membuat video yang lebih baik dengan pengalaman kandungan yang lebih kaya.",
+    "srt-data": "srt/native/Female Malaysian.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "c7c35c0534564c23a0948a8a2e6b5e5c",
+    "heygen-video": "https://resource.heygen.ai/video/c7c35c0534564c23a0948a8a2e6b5e5c/original",
+    "assembly@egp": {
+      "Headline": "Malaysian speaking Malay",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Malay",
+        "Nationality": "Malaysian"
+      }
+    }
+  },
+  {
+    "id": "malaysian_English",
+    "output": "malaysian_English",
+    "locale": "Malaysia",
+    "language": "English",
+    "code": "en",
+    "nationality": "Malaysian",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Perhaps most importantly, we believe in your success. Our Templater software isn’t just about making video post-production workflows faster and easier —it’s about empowering our users to make better videos with richer content experiences. To that end, we offer phenomenal support and a suite of design, production, technical and consulting services to set you up for success.",
+    "srt-data": "srt/english/Female Malaysian English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "3ca7b3df6b8949df8c19283489344ee9",
+    "heygen-video": "https://resource.heygen.ai/video/3ca7b3df6b8949df8c19283489344ee9/original",
+    "assembly@egp": {
+      "Headline": "Malaysian speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Malaysian"
+      }
+    }
+  },
+  {
+    "id": "polish_Polish",
+    "output": "polish_Polish",
+    "locale": "Poland",
+    "language": "Polish",
+    "code": "pl",
+    "nationality": "Polish",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Wersja Templater Bot jest dostarczana z funkcją, która sprawia, że Templater zachowuje się jak robot obsługujący After Effects. Ta funkcja, zwana Botem, działa w tle, obserwując przychodzące dane i renderując wideo. Kiedy już Twój projekt AE zostanie przygotowany do użytku z Templaterem, możesz użyć Bota do jego dostosowania i renderowania bez obsługi interfejsu użytkownika After Effects. Renderowanie odbywa się automatycznie po przesłaniu nowych danych do źródła danych. Programiści mogą tworzyć aplikacje front-end, takie jak aplikacje internetowe lub mobilne, które dostarczają dane do źródła danych Templatera, oferując wspólne, niestandardowe rozwiązanie do tworzenia treści wideo.",
+    "srt-data": "srt/native/Female Polish.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "c503c0e6d5a5449b93c1987c87b23c85",
+    "heygen-video": "https://resource.heygen.ai/video/c503c0e6d5a5449b93c1987c87b23c85/original",
+    "assembly@egp": {
+      "Headline": "Polish speaking Polish",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Polish",
+        "Nationality": "Polish"
+      }
+    }
+  },
+  {
+    "id": "polish_English",
+    "output": "polish_English",
+    "locale": "Poland",
+    "language": "English",
+    "code": "en",
+    "nationality": "Polish",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "The Templater Bot edition ships with a feature that makes Templater behave like a robot operating After Effects for you. This feature, called The Bot, works as a background process watching for incoming data and rendering video. Once your AE project is rigged for use with Templater, you can use The Bot to customize and render it without operating the After Effects user interface. Rendering happens automatically as new data is submitted to a data source. Developers can create front end applications, such as web or mobile apps, that feed data into Templater's data source, offering a collaborative, custom video content creation solution.",
+    "srt-data": "srt/english/Female Polish English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "91ccecdbd8e94640825faa620d532da4",
+    "heygen-video": "https://resource.heygen.ai/video/91ccecdbd8e94640825faa620d532da4/original",
+    "assembly@egp": {
+      "Headline": "Polish speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Polish"
+      }
+    }
+  },
+  {
+    "id": "brazilian_Portuguese",
+    "output": "brazilian_Portuguese",
+    "locale": "Brazil",
+    "language": "Portuguese",
+    "code": "pt",
+    "nationality": "Brazilian",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Cada edição do Templater oferece um superpoder único. Templater Rig fornece as ferramentas para preparar um arquivo de projeto do After Effects para conteúdo dinâmico. Mapeie seus dados para camadas de composição e visualize como essas camadas mudam à medida que os dados são processados.",
+    "srt-data": "srt/native/Female Brazilian.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "14372a890f4f4403a616b173ef786150",
+    "heygen-video": "https://resource.heygen.ai/video/14372a890f4f4403a616b173ef786150/original",
+    "assembly@egp": {
+      "Headline": "Brazilian speaking Portuguese",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Portuguese",
+        "Nationality": "Brazilian"
+      }
+    }
+  },
+  {
+    "id": "brazilian_English",
+    "output": "brazilian_English",
+    "locale": "Brazil",
+    "language": "English",
+    "code": "en",
+    "nationality": "Brazilian",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Each edition of Templater gives you a unique superpower.  Templater Rig gives you the tools to prepare an After Effects project file for dynamic content. Map your data to composition layers and preview how those layers change as the data is processed.",
+    "srt-data": "srt/english/Female Brazilian English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "4b75f96ff94c4d3d812aad40e071f50f",
+    "heygen-video": "https://resource.heygen.ai/video/4b75f96ff94c4d3d812aad40e071f50f/original",
+    "assembly@egp": {
+      "Headline": "Brazilian speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Brazilian"
+      }
+    }
+  },
+  {
+    "id": "romanian_Romanian",
+    "output": "romanian_Romanian",
+    "locale": "Romania",
+    "language": "Romanian",
+    "code": "ro",
+    "nationality": "Romanian",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Botul pentru Templater operează After Effects pentru dvs. Când botul găsește date noi, declanșează procesul de personalizare și redare al lui Templater. Dezvoltatorii pot crea aplicații web sau mobile care furnizează date în sursa de date Templater, oferind o soluție colaborativă, personalizată de creare de conținut video.",
+    "srt-data": "srt/native/Male Romanian.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "986cecf08ab648fe8641fe2aa62d1607",
+    "heygen-video": "https://resource.heygen.ai/video/986cecf08ab648fe8641fe2aa62d1607/original",
+    "assembly@egp": {
+      "Headline": "Romanian speaking Romanian",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Romanian",
+        "Nationality": "Romanian"
+      }
+    }
+  },
+  {
+    "id": "romanian_English",
+    "output": "romanian_English",
+    "locale": "Romania",
+    "language": "English",
+    "code": "en",
+    "nationality": "Romanian",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "The Bot for Templater operates After Effects for you. When The Bot finds new data, it triggers Templater’s customization and rendering process. Developers can create web or mobile apps that feed data into Templater’s data source, offering a collaborative, custom video content creation solution.",
+    "srt-data": "srt/english/Male Romanian English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "5f090822b07a466389d6da62dbaf90ed",
+    "heygen-video": "https://resource.heygen.ai/video/5f090822b07a466389d6da62dbaf90ed/original",
+    "assembly@egp": {
+      "Headline": "Romanian speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Romanian"
+      }
+    }
+  },
+  {
+    "id": "slovak_Slovak",
+    "output": "slovak_Slovak",
+    "locale": "Slovakia",
+    "language": "Slovak",
+    "code": "sk",
+    "nationality": "Slovak",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Templater si môže prenajať licenciu z fondu licencií spravovaných serverovým softvérom, ktorý nainštalujete, nastavíte a aktivujete. Keď sa After Effects ukončí, licencia Templater sa uvoľní a vráti sa do fondu licencií. Ak počítač, na ktorom je spustená aplikácia After Effects, už nie je k dispozícii, serverový softvér uvoľní licenciu po uplynutí času určeného používateľom. Inštalačné súbory servera sa dodávajú s inštalačnými súbormi šablóny. Budete tiež musieť pripojiť počítače so systémom Templater k licenčnému serveru.",
+    "srt-data": "srt/native/Male Slovak.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "e3772d49d94b4206927024fefa838d99",
+    "heygen-video": "https://resource.heygen.ai/video/e3772d49d94b4206927024fefa838d99/original",
+    "assembly@egp": {
+      "Headline": "Slovak speaking Slovak",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Slovak",
+        "Nationality": "Slovak"
+      }
+    }
+  },
+  {
+    "id": "slovak_English",
+    "output": "slovak_English",
+    "locale": "Slovakia",
+    "language": "English",
+    "code": "en",
+    "nationality": "Slovak",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Templater can lease a license from a pool of licenses managed by server software that you install, setup, and activate. When After Effects quits, Templater's license is released and returned to the pool of licenses. If the machine After Effects is running on is no longer available, the server software will release the license after a user-specified amount of time. The server setup files are provided with your Templater installation files. You will also need to connect the machines running Templater to the licensing server.",
+    "srt-data": "srt/english/Male Slovak English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "a48bb3bac7f94b01bce351960d9d4bc8",
+    "heygen-video": "https://resource.heygen.ai/video/a48bb3bac7f94b01bce351960d9d4bc8/original",
+    "assembly@egp": {
+      "Headline": "Slovak speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Slovak"
+      }
+    }
+  },
+  {
+    "id": "mexican_Spanish",
+    "output": "mexican_Spanish",
+    "locale": "Mexico",
+    "language": "Spanish",
+    "code": "es",
+    "nationality": "Mexican",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Templater Pro viene con la funcionalidad Rig además de características que le permiten renderizar o replicar por lotes composiciones maestras reversionadas utilizando su fuente de datos. Es perfecto para cuando su cliente tiene una base de datos con información del cliente y necesita una respuesta rápida para muchos videos únicos basados en esos datos.",
+    "srt-data": "srt/native/Female Mexican.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "5225bc6776534179a32df40f5afb3233",
+    "heygen-video": "https://resource.heygen.ai/video/5225bc6776534179a32df40f5afb3233/original",
+    "assembly@egp": {
+      "Headline": "Mexican speaking Spanish",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Spanish",
+        "Nationality": "Mexican"
+      }
+    }
+  },
+  {
+    "id": "mexican_English",
+    "output": "mexican_English",
+    "locale": "Mexico",
+    "language": "English",
+    "code": "en",
+    "nationality": "Mexican",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Templater Pro ships with Rig functionality in addition to features that let you batch render or batch replicate re-versioned master compositions using your data source.  It's perfect for when your client has a database of customer information and they require a quick turnaround for many unique videos based on that data.",
+    "srt-data": "srt/english/Female Mexican English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "4aeff1646e8743dda5d65989c8343129",
+    "heygen-video": "https://resource.heygen.ai/video/4aeff1646e8743dda5d65989c8343129/original",
+    "assembly@egp": {
+      "Headline": "Mexican speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Mexican"
+      }
+    }
+  },
+  {
+    "id": "swede_Swedish",
+    "output": "swede_Swedish",
+    "locale": "Sweden",
+    "language": "Swedish",
+    "code": "sv",
+    "nationality": "Swede",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Autografer är representationer av Adobe After Effects-projekt med lager mappade till statisk och dynamisk tillgångsdata via Templater. Dynamiska tillgångar – som textsträngar, audiovisuella filer och färgdefinitioner – kan ändras från en video till en annan och styrs av QUE. Du skapar nya QUE Autografs direkt i Templaters Autograf-dialog.",
+    "srt-data": "srt/native/Female Swede.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "6c32474fb2564ee9af94d447e2d14406",
+    "heygen-video": "https://resource.heygen.ai/video/6c32474fb2564ee9af94d447e2d14406/original",
+    "assembly@egp": {
+      "Headline": "Swede speaking Swedish",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Swedish",
+        "Nationality": "Swede"
+      }
+    }
+  },
+  {
+    "id": "swede_English",
+    "output": "swede_English",
+    "locale": "Sweden",
+    "language": "English",
+    "code": "en",
+    "nationality": "Swede",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Autografs are representations of Adobe After Effects projects with layers mapped to static and dynamic asset data via Templates. Dynamic assets—such as text strings, audiovisual files, and color definitions—can change from one video to another and are controlled by QUE. You create new QUE Autografs directly in Templater's Autograf dialog.",
+    "srt-data": "srt/english/Female Swede English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "0b1da97306c041caa152d701367f5f72",
+    "heygen-video": "https://resource.heygen.ai/video/0b1da97306c041caa152d701367f5f72/original",
+    "assembly@egp": {
+      "Headline": "Swede speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Swede"
+      }
+    }
+  },
+  {
+    "id": "singaporean_Tamil",
+    "output": "singaporean_Tamil",
+    "locale": "Singapore",
+    "language": "Tamil",
+    "code": "ta",
+    "nationality": "Singaporean",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "பெரிய அளவிலான தனிப்பயனாக்கப்பட்ட வீடியோக்களை உருவாக்குவது பொதுவாக ஒரு கடினமான, நேரத்தைச் செலவழிக்கும் செயலாகும். டெம்ப்ளேட்டர் அந்த செயல்முறையை தானியங்குபடுத்துகிறது, உள்ளடக்கத்தை உருவாக்குபவர்களின் நேரத்தையும் பணத்தையும் மிச்சப்படுத்துகிறது - சலிப்பைக் குறிப்பிட தேவையில்லை. செயல்திறன் பெரியது. ஆனால் அதைவிட முக்கியமாக, டெம்ப்ளேட்டர் உங்களைப் பெருமைப்படுத்தும் அழகான வீடியோக்களை உருவாக்க உதவுகிறது.",
+    "srt-data": "srt/native/Male Singaporean.srt",
+    "srt-display@style": {
+      "font-face": "NotoSansTamil-Black",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSansTamil-Black",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "dcfb2582c8c24e16bb67f9a9c57b7db9",
+    "heygen-video": "https://resource.heygen.ai/video/dcfb2582c8c24e16bb67f9a9c57b7db9/original",
+    "assembly@egp": {
+      "Headline": "Singaporean speaking Tamil",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Tamil",
+        "Nationality": "Singaporean"
+      }
+    }
+  },
+  {
+    "id": "singaporean_English",
+    "output": "singaporean_English",
+    "locale": "Singapore",
+    "language": "English",
+    "code": "en",
+    "nationality": "Singaporean",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Producing a large volume of customized videos is normally a tedious, time-consuming process. Templater automates that process, saving content creators time and money — not to mention boredom.  Efficiency is great. But even more importantly, Templater helps you make beautiful videos that will make you proud.",
+    "srt-data": "srt/english/Male Singaporean English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "391eda779d1b455f93890f3a825864a9",
+    "heygen-video": "https://resource.heygen.ai/video/391eda779d1b455f93890f3a825864a9/original",
+    "assembly@egp": {
+      "Headline": "Singaporean speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Singaporean"
+      }
+    }
+  },
+  {
+    "id": "turkish_Turkish",
+    "output": "turkish_Turkish",
+    "locale": "Turkey",
+    "language": "Turkish",
+    "code": "tr",
+    "nationality": "Turkish",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "Geniş ölçekte özelleştirilmiş videolar üretme yeteneği, kuruluşlara stratejik bir avantaj sağlar. Belirli izleyicilere, ilgi alanlarına veya durumlara göre özelleştirilmiş videolar, markanızla daha güçlü bir bağ kurmanıza yardımcı olur.",
+    "srt-data": "srt/native/Female Turkish.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "9fb19e697ed14ac09bd315f7a2318c0b",
+    "heygen-video": "https://resource.heygen.ai/video/9fb19e697ed14ac09bd315f7a2318c0b/original",
+    "assembly@egp": {
+      "Headline": "Turkish speaking Turkish",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Turkish",
+        "Nationality": "Turkish"
+      }
+    }
+  },
+  {
+    "id": "turkish_English",
+    "output": "turkish_English",
+    "locale": "Turkey",
+    "language": "English",
+    "code": "en",
+    "nationality": "Turkish",
+    "gender": "female",
+    "render-status": "done",
+    "statement": "The ability to produce customized videos at scale gives organizations a strategic advantage. Videos customized for specific viewers, interests or situations help forge a stronger connection with your brand.",
+    "srt-data": "srt/english/Female Turkish English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "98bcc195fe2b4156b0115d8ec04c354d",
+    "heygen-video": "https://resource.heygen.ai/video/98bcc195fe2b4156b0115d8ec04c354d/original",
+    "assembly@egp": {
+      "Headline": "Turkish speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Turkish"
+      }
+    }
+  },
+  {
+    "id": "ukrainian_Ukranian",
+    "output": "ukrainian_Ukranian",
+    "locale": "Ukraine",
+    "language": "Ukranian",
+    "code": "uk",
+    "nationality": "Ukrainian",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Templater Bot поставляється з функціями Rig і Pro і дозволяє створювати автоматизовані відеосистеми. Періодично перевіряйте вхідні дані, щоб запустити нові унікальні візуалізації. Або скористайтеся командним рядком для надсилання даних. Бот ідеально підходить, коли вам потрібно створювати відео на вимогу без втручання людини.",
+    "srt-data": "srt/native/Male Ukrainian.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "4a0f789688cc42798171060129d6c01b",
+    "heygen-video": "https://resource.heygen.ai/video/4a0f789688cc42798171060129d6c01b/original",
+    "assembly@egp": {
+      "Headline": "Ukrainian speaking Ukranian",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "Ukranian",
+        "Nationality": "Ukrainian"
+      }
+    }
+  },
+  {
+    "id": "ukrainian_English",
+    "output": "ukrainian_English",
+    "locale": "Ukraine",
+    "language": "English",
+    "code": "en",
+    "nationality": "Ukrainian",
+    "gender": "male",
+    "render-status": "done",
+    "statement": "Templater Bot ships with Rig and Pro functionality and lets you build automated video systems.  Check periodically for incoming data to kick-off new, unique renders. Or use the command line to push data. Bot is perfect when you need to create videos on demand without human intervention.",
+    "srt-data": "srt/english/Male Ukrainian English.srt",
+    "srt-display@style": {
+      "font-face": "NotoSans-Bold",
+      "justification": "center",
+      "direction": "LTR"
+    },
+    "font-face": "NotoSans-Bold",
+    "srt-justification": "center",
+    "srt-text-direction": "LTR",
+    "heygen-id": "21f7318c87b3481ba7ca77432650baeb",
+    "heygen-video": "https://resource.heygen.ai/video/21f7318c87b3481ba7ca77432650baeb/original",
+    "assembly@egp": {
+      "Headline": "Ukrainian speaking English",
+      "SRT Font Size": "50",
+      "SRT BG Color": "[0,0,0]",
+      "SRT Shadow Opacity": "100",
+      "Labels": {
+        "SRT Language": "English",
+        "Nationality": "Ukrainian"
+      }
+    }
+  }
+]

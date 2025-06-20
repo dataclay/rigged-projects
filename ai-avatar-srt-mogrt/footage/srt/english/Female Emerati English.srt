@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:02,000
+Expand your data sources.
+
+2
+00:00:02,400 --> 00:00:03,259
+You can use QUE
+
+3
+00:00:03,259 --> 00:00:04,680
+as your exclusive data
+
+4
+00:00:04,680 --> 00:00:06,280
+source.  It enables you
+
+5
+00:00:06,280 --> 00:00:08,148
+to combine dynamic video
+
+6
+00:00:08,148 --> 00:00:09,777
+data from multiple internal
+
+7
+00:00:09,777 --> 00:00:11,000
+or external sources.
+
+8
+00:00:11,000 --> 00:00:12,454
+It can receive data
+
+9
+00:00:12,454 --> 00:00:13,909
+from any application or
+
+10
+00:00:13,909 --> 00:00:15,363
+service through its exposed
+
+11
+00:00:15,363 --> 00:00:16,818
+API endpoints. Mobile apps,
+
+12
+00:00:16,818 --> 00:00:18,272
+web apps, voice apps.
+
+13
+00:00:18,272 --> 00:00:19,727
+The sky is the
+
+14
+00:00:19,727 --> 00:00:21,181
+limit. Simply write your
+
+15
+00:00:21,181 --> 00:00:22,636
+own script to get
+
+16
+00:00:22,636 --> 00:00:23,000
+started.
+

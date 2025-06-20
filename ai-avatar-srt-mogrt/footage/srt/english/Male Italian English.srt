@@ -1,0 +1,72 @@
+1
+00:00:00,110 --> 00:00:01,572
+Templater comes with a
+
+2
+00:00:01,572 --> 00:00:03,035
+custom effect, and panel
+
+3
+00:00:03,035 --> 00:00:04,498
+installed in After Effects
+
+4
+00:00:04,498 --> 00:00:05,230
+application folders,
+
+5
+00:00:05,230 --> 00:00:07,230
+integrating seamlessly into users'
+
+6
+00:00:07,230 --> 00:00:08,230
+normal workflow.
+
+7
+00:00:08,230 --> 00:00:09,496
+Users enter branding data
+
+8
+00:00:09,496 --> 00:00:10,763
+directly into After Effects
+
+9
+00:00:10,763 --> 00:00:12,030
+from a data source.
+
+10
+00:00:12,030 --> 00:00:13,900
+Templater can read simple
+
+11
+00:00:13,900 --> 00:00:15,771
+tab-delimited files, Google Sheets
+
+12
+00:00:15,771 --> 00:00:17,642
+documents, or JSON-formatted text
+
+13
+00:00:17,642 --> 00:00:18,110
+files.
+
+14
+00:00:18,110 --> 00:00:19,373
+Users mark video composition
+
+15
+00:00:19,373 --> 00:00:20,636
+layers as dynamic with
+
+16
+00:00:20,636 --> 00:00:21,899
+a custom effect, and
+
+17
+00:00:21,899 --> 00:00:23,162
+then map spreadsheet data
+
+18
+00:00:23,162 --> 00:00:24,110
+to those layers.
+

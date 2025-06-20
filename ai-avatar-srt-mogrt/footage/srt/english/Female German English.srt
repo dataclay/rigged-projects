@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:01,600
+Templater Bot, its command line
+
+2
+00:00:01,600 --> 00:00:03,200
+interface and API, allow
+
+3
+00:00:03,200 --> 00:00:04,800
+you to create customized
+
+4
+00:00:04,800 --> 00:00:06,400
+videos on demand in
+
+5
+00:00:06,400 --> 00:00:08,000
+a fully automated way.
+
+6
+00:00:08,000 --> 00:00:10,000
+Our software is used
+
+7
+00:00:10,000 --> 00:00:12,000
+worldwide by small studios
+
+8
+00:00:12,000 --> 00:00:14,000
+and large companies such
+
+9
+00:00:14,000 --> 00:00:16,000
+as Netflix, Apple, NBCUniversal,
+
+10
+00:00:16,000 --> 00:00:18,000
+Electronic Arts, the NFL
+
+11
+00:00:18,000 --> 00:00:20,000
+and South by Southwest.
+

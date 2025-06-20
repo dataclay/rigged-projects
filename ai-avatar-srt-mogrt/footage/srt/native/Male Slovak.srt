@@ -1,0 +1,88 @@
+1
+00:00:00,050 --> 00:00:01,868
+Templater si může prenajat
+
+2
+00:00:01,868 --> 00:00:03,686
+licenciu z Fondu licencií
+
+3
+00:00:03,686 --> 00:00:05,050
+zpravovaných serverovým softwérom,
+
+4
+00:00:05,050 --> 00:00:07,450
+který nainstalujete, nastavíte a
+
+5
+00:00:07,450 --> 00:00:08,050
+aktivujete.
+
+6
+00:00:08,750 --> 00:00:10,110
+Keď se After Effects
+
+7
+00:00:10,110 --> 00:00:11,470
+ukončí, licencia Templater se
+
+8
+00:00:11,470 --> 00:00:12,830
+uvolní a vrátí se
+
+9
+00:00:12,830 --> 00:00:13,850
+do Fondu licencií.
+
+10
+00:00:14,550 --> 00:00:16,119
+Ak počítač, na ktorom
+
+11
+00:00:16,119 --> 00:00:17,688
+je spustená aplikácia After
+
+12
+00:00:17,688 --> 00:00:19,257
+Effects, už něje k
+
+13
+00:00:19,257 --> 00:00:19,650
+dispozící,
+
+14
+00:00:19,650 --> 00:00:21,783
+serverový software uvolní licenciu
+
+15
+00:00:21,783 --> 00:00:23,916
+po uplynutí času určeného
+
+16
+00:00:23,916 --> 00:00:24,450
+používatelom.
+
+17
+00:00:25,150 --> 00:00:27,150
+Inštalačné sůbory servera se
+
+18
+00:00:27,150 --> 00:00:29,150
+dodávají s inštalačnými sůbormi
+
+19
+00:00:29,150 --> 00:00:29,650
+šablóny.
+
+20
+00:00:30,050 --> 00:00:31,868
+Budete těž musít pripojit
+
+21
+00:00:31,868 --> 00:00:33,686
+počítače so systémom Templater
+
+22
+00:00:33,686 --> 00:00:35,050
+k licenčnému serveru.
+

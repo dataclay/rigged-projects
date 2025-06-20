@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:01,200
+Our team is made
+
+2
+00:00:01,200 --> 00:00:01,960
+up of members with
+
+3
+00:00:01,960 --> 00:00:03,960
+extensive experience in design,
+
+4
+00:00:03,960 --> 00:00:05,647
+visual effects, and software
+
+5
+00:00:05,647 --> 00:00:07,000
+development.
+
+6
+00:00:07,000 --> 00:00:08,866
+Together, we bring our
+
+7
+00:00:08,866 --> 00:00:10,733
+talent, expertise, and passion
+
+8
+00:00:10,733 --> 00:00:12,600
+for technology, communications, and
+
+9
+00:00:12,600 --> 00:00:14,000
+media to Dataclay.
+

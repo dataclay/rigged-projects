@@ -1,0 +1,36 @@
+1
+00:00:00,180 --> 00:00:01,500
+Začněte přenášet data do
+
+2
+00:00:01,500 --> 00:00:02,820
+QUE a připojovat je
+
+3
+00:00:02,820 --> 00:00:03,480
+k templatéru.
+
+4
+00:00:04,480 --> 00:00:06,120
+Vytvořte architekturu základu vašeho
+
+5
+00:00:06,120 --> 00:00:07,760
+systému pro automatickou tvorbu
+
+6
+00:00:07,760 --> 00:00:08,580
+video obsahu
+
+7
+00:00:08,580 --> 00:00:10,107
+a snadno spravujte svá
+
+8
+00:00:10,107 --> 00:00:11,634
+dynamická videodata, jak se
+
+9
+00:00:11,634 --> 00:00:12,780
+vaše operace škáluje.
+

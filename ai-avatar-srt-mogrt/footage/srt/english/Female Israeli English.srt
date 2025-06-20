@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:01,538
+Templater works in trial
+
+2
+00:00:01,538 --> 00:00:03,076
+mode for 30 days
+
+3
+00:00:03,076 --> 00:00:04,615
+before requiring a license
+
+4
+00:00:04,615 --> 00:00:05,000
+purchase.
+
+5
+00:00:05,000 --> 00:00:06,714
+Trial mode starts on
+
+6
+00:00:06,714 --> 00:00:08,428
+the install date and
+
+7
+00:00:08,428 --> 00:00:10,142
+includes all features from
+
+8
+00:00:10,142 --> 00:00:11,000
+all releases.
+

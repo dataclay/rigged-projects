@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:01,366
+Template Pro viene con
+
+2
+00:00:01,366 --> 00:00:02,732
+la funcionalidad Rig, además
+
+3
+00:00:02,732 --> 00:00:04,098
+de características que le
+
+4
+00:00:04,098 --> 00:00:04,440
+permiten
+
+5
+00:00:04,440 --> 00:00:06,170
+renderizar o replicar por
+
+6
+00:00:06,170 --> 00:00:07,901
+lotes composiciones maestras reversionadas
+
+7
+00:00:07,901 --> 00:00:09,200
+utilizando su fuente
+
+8
+00:00:09,200 --> 00:00:10,200
+de datos.
+
+9
+00:00:10,200 --> 00:00:11,400
+Es perfecto para cuando
+
+10
+00:00:11,400 --> 00:00:12,600
+su cliente tiene una
+
+11
+00:00:12,600 --> 00:00:13,800
+base de datos con
+
+12
+00:00:13,800 --> 00:00:14,700
+información del cliente
+
+13
+00:00:14,700 --> 00:00:16,109
+y necesita una respuesta
+
+14
+00:00:16,109 --> 00:00:17,518
+rápida para muchos videos
+
+15
+00:00:17,518 --> 00:00:18,927
+únicos basados en esos
+
+16
+00:00:18,927 --> 00:00:19,280
+datos.
+

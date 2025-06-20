@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:01,750
+Templater viene fornito con
+
+2
+00:00:01,750 --> 00:00:03,500
+un effetto personalizzato e
+
+3
+00:00:03,500 --> 00:00:05,250
+un pannello installato nelle
+
+4
+00:00:05,250 --> 00:00:07,000
+cartelle dell'applicazione After Effects,
+
+5
+00:00:07,000 --> 00:00:08,777
+integrandosi perfettamente nel normale
+
+6
+00:00:08,777 --> 00:00:10,555
+flusso di lavoro degli
+
+7
+00:00:10,555 --> 00:00:11,000
+utenti.
+
+8
+00:00:12,000 --> 00:00:13,714
+Gli utenti inseriscono i
+
+9
+00:00:13,714 --> 00:00:15,428
+dati di personalizzazione direttamente
+
+10
+00:00:15,428 --> 00:00:17,142
+in After Effects da
+
+11
+00:00:17,142 --> 00:00:18,000
+un'origine dati.
+
+12
+00:00:18,000 --> 00:00:19,684
+Templater può leggere file
+
+13
+00:00:19,684 --> 00:00:21,368
+semplici delimitati da tabulazioni,
+
+14
+00:00:21,368 --> 00:00:23,052
+documenti di fogli Google
+
+15
+00:00:23,052 --> 00:00:24,736
+o file di testo
+
+16
+00:00:24,736 --> 00:00:26,000
+in formato John.
+
+17
+00:00:26,000 --> 00:00:27,538
+Gli utenti contrassegnano i
+
+18
+00:00:27,538 --> 00:00:29,076
+livelli di composizione video
+
+19
+00:00:29,076 --> 00:00:30,615
+come dinamici con un
+
+20
+00:00:30,615 --> 00:00:32,153
+effetto personalizzato e quindi
+
+21
+00:00:32,153 --> 00:00:33,692
+mappano i dati del
+
+22
+00:00:33,692 --> 00:00:35,230
+foglio di calcolo su
+
+23
+00:00:35,230 --> 00:00:36,000
+tali livelli.
+

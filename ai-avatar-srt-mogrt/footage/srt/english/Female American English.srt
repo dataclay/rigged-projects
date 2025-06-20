@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:01,647
+Templater is an Adobe
+
+2
+00:00:01,647 --> 00:00:03,294
+After Effects plugin that
+
+3
+00:00:03,294 --> 00:00:04,941
+simplifies and accelerates the
+
+4
+00:00:04,941 --> 00:00:06,588
+process of creating customized
+
+5
+00:00:06,588 --> 00:00:07,000
+videos.
+
+6
+00:00:07,000 --> 00:00:08,400
+It empowers you to
+
+7
+00:00:08,400 --> 00:00:09,800
+quickly and easily produce
+
+8
+00:00:09,800 --> 00:00:11,200
+a large volume of
+
+9
+00:00:11,200 --> 00:00:12,600
+beautiful videos that will
+
+10
+00:00:12,600 --> 00:00:14,000
+resonate with your audience.
+
+11
+00:00:14,000 --> 00:00:15,666
+Templater is a great
+
+12
+00:00:15,666 --> 00:00:17,333
+workflow automation tool for
+
+13
+00:00:17,333 --> 00:00:19,000
+both designers and developers.
+
+14
+00:00:19,000 --> 00:00:20,600
+Its enterprise features provide
+
+15
+00:00:20,600 --> 00:00:22,200
+a fully automated server
+
+16
+00:00:22,200 --> 00:00:23,800
+solution for empowering developers
+
+17
+00:00:23,800 --> 00:00:25,400
+to integrate dynamic video
+
+18
+00:00:25,400 --> 00:00:27,000
+content into their apps.
+

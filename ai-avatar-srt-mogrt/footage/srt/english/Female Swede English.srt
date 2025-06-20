@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:01,789
+Autografs are representations of
+
+2
+00:00:01,789 --> 00:00:03,578
+Adobe After Effects projects
+
+3
+00:00:03,578 --> 00:00:05,368
+with layers mapped to
+
+4
+00:00:05,368 --> 00:00:07,157
+static and dynamic asset
+
+5
+00:00:07,157 --> 00:00:08,500
+data via templates.
+
+6
+00:00:08,500 --> 00:00:10,239
+Dynamic assets, such as
+
+7
+00:00:10,239 --> 00:00:11,978
+text strings, audio-visual files,
+
+8
+00:00:11,978 --> 00:00:13,717
+and color definitions, can
+
+9
+00:00:13,717 --> 00:00:15,456
+change from one video
+
+10
+00:00:15,456 --> 00:00:17,195
+to another and are
+
+11
+00:00:17,195 --> 00:00:18,500
+controlled by QUE.
+
+12
+00:00:18,500 --> 00:00:20,300
+You create new QUE
+
+13
+00:00:20,300 --> 00:00:22,100
+Autografs directly in Templater's
+
+14
+00:00:22,100 --> 00:00:23,000
+Autograf Dialog.
+

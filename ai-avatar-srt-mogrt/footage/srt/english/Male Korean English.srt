@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:02,000
+We believe in creativity
+
+2
+00:00:02,000 --> 00:00:03,000
+and technology.
+
+3
+00:00:03,000 --> 00:00:04,750
+Our goal is to
+
+4
+00:00:04,750 --> 00:00:06,500
+improve the lives of
+
+5
+00:00:06,500 --> 00:00:08,250
+content creators and the
+
+6
+00:00:08,250 --> 00:00:10,000
+experience of content consumers.
+
+7
+00:00:10,000 --> 00:00:11,250
+We want our users
+
+8
+00:00:11,250 --> 00:00:12,500
+to enjoy their work
+
+9
+00:00:12,500 --> 00:00:13,750
+and our audience to
+
+10
+00:00:13,750 --> 00:00:15,000
+connect with the results.
+

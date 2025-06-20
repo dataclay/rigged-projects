@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:01,866
+Projector effortlessly sends your
+
+2
+00:00:01,866 --> 00:00:03,733
+creations from Templater to
+
+3
+00:00:03,733 --> 00:00:05,600
+a variety of destinations
+
+4
+00:00:05,600 --> 00:00:07,753
+Amazon S3, Vimeo, JW
+
+5
+00:00:07,753 --> 00:00:09,907
+Player, and with Google
+
+6
+00:00:09,907 --> 00:00:12,061
+Sheets integration, your workflow
+
+7
+00:00:12,061 --> 00:00:12,600
+becomes
+
+8
+00:00:12,600 --> 00:00:13,920
+more intuitive than ever.
+

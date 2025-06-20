@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:02,000
+Autografer är representationer av
+
+2
+00:00:02,000 --> 00:00:04,000
+Adobe After Effects-projekt med
+
+3
+00:00:04,000 --> 00:00:06,000
+lager mappade till statisk
+
+4
+00:00:06,000 --> 00:00:08,000
+och dynamisk tillgångsdata via
+
+5
+00:00:08,000 --> 00:00:08,500
+templater.
+
+6
+00:00:09,000 --> 00:00:10,800
+Dynamiska tillgångar som textsträngar,
+
+7
+00:00:10,800 --> 00:00:12,600
+audiovisuella filer och färgdefinitioner
+
+8
+00:00:12,600 --> 00:00:14,400
+kan ändras från en
+
+9
+00:00:14,400 --> 00:00:16,200
+video till en annan
+
+10
+00:00:16,200 --> 00:00:18,000
+och styrs av QE.
+
+11
+00:00:18,500 --> 00:00:20,750
+Du skapar nya QE-autografs
+
+12
+00:00:20,750 --> 00:00:23,000
+direkt i Templaters autografdialog.
+

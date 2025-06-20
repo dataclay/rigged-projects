@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:01,875
+Templater dibuat untuk meningkatkan
+
+2
+00:00:01,875 --> 00:00:03,750
+proses dan alur kerja
+
+3
+00:00:03,750 --> 00:00:05,625
+produksi video bertarget berdasarkan
+
+4
+00:00:05,625 --> 00:00:07,500
+berbagai sumber data eksternal.
+
+5
+00:00:07,500 --> 00:00:09,500
+Ketika organisasi menambang dan
+
+6
+00:00:09,500 --> 00:00:11,500
+menyimpan lebih banyak informasi,
+
+7
+00:00:11,500 --> 00:00:13,184
+mereka memerlukan cara untuk
+
+8
+00:00:13,184 --> 00:00:14,868
+memanfaatkan data ini untuk
+
+9
+00:00:14,868 --> 00:00:16,552
+menciptakan hubungan yang bermakna
+
+10
+00:00:16,552 --> 00:00:18,236
+dengan pelanggan di pasar
+
+11
+00:00:18,236 --> 00:00:19,500
+di seluruh dunia.
+
+12
+00:00:19,500 --> 00:00:21,166
+Data besar dapat mendorong
+
+13
+00:00:21,166 --> 00:00:22,000
+konten media,
+
+14
+00:00:22,000 --> 00:00:23,619
+namun produser video memerlukan
+
+15
+00:00:23,619 --> 00:00:25,238
+cara untuk dengan mudah
+
+16
+00:00:25,238 --> 00:00:26,857
+memasukkan informasi ke dalam
+
+17
+00:00:26,857 --> 00:00:28,476
+video khusus tanpa harus
+
+18
+00:00:28,476 --> 00:00:30,095
+repot mengganti aset satu
+
+19
+00:00:30,095 --> 00:00:30,500
+persatu.
+

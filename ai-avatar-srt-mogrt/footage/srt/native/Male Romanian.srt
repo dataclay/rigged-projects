@@ -1,0 +1,52 @@
+1
+00:00:00,110 --> 00:00:02,010
+Botul pentru Templater operează
+
+2
+00:00:02,010 --> 00:00:03,910
+After Effects pentru DVS.
+
+3
+00:00:04,610 --> 00:00:06,124
+Când botul găsește date
+
+4
+00:00:06,124 --> 00:00:07,638
+noi, declanșează procesul de
+
+5
+00:00:07,638 --> 00:00:09,152
+personalizare și redare al
+
+6
+00:00:09,152 --> 00:00:09,910
+lui Templater.
+
+7
+00:00:10,710 --> 00:00:12,123
+Dezvoltatorii pot crea aplicații
+
+8
+00:00:12,123 --> 00:00:13,536
+web sau mobile care
+
+9
+00:00:13,536 --> 00:00:14,950
+furnizează date în sursa
+
+10
+00:00:14,950 --> 00:00:16,010
+de date Templater,
+
+11
+00:00:16,010 --> 00:00:17,810
+oferind o soluție colaborativă,
+
+12
+00:00:17,810 --> 00:00:19,610
+personalizată de creare de
+
+13
+00:00:19,610 --> 00:00:20,510
+conținut video.
+

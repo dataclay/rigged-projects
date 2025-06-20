@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:01,666
+Kampagner er samlinger af
+
+2
+00:00:01,666 --> 00:00:03,333
+job, der holder dine
+
+3
+00:00:03,333 --> 00:00:05,000
+data organiseret og sikre.
+
+4
+00:00:05,000 --> 00:00:06,333
+Et byrå kan f.eks.
+
+5
+00:00:06,333 --> 00:00:07,666
+have en kampagne for
+
+6
+00:00:07,666 --> 00:00:09,000
+hver af sine kunder
+
+7
+00:00:09,000 --> 00:00:10,263
+og kan kun give
+
+8
+00:00:10,263 --> 00:00:11,526
+adgang til en bestemt
+
+9
+00:00:11,526 --> 00:00:12,789
+kampagne til brugere, der
+
+10
+00:00:12,789 --> 00:00:14,052
+er autoriseret til at
+
+11
+00:00:14,052 --> 00:00:15,000
+arbejde på den.
+

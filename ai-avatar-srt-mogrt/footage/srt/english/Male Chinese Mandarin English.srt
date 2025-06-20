@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:01,409
+QUE Satellites are unique machines
+
+2
+00:00:01,409 --> 00:00:02,819
+that run instances of
+
+3
+00:00:02,819 --> 00:00:04,228
+After Effects in your
+
+4
+00:00:04,228 --> 00:00:05,638
+environment, and interact with
+
+5
+00:00:05,638 --> 00:00:07,047
+QUE through the Templater
+
+6
+00:00:07,047 --> 00:00:07,400
+bot.
+
+7
+00:00:07,400 --> 00:00:09,066
+You can specify which
+
+8
+00:00:09,066 --> 00:00:10,733
+satellite will handle each
+
+9
+00:00:10,733 --> 00:00:12,400
+activity or job, allowing
+
+10
+00:00:12,400 --> 00:00:14,066
+you to allocate rendering
+
+11
+00:00:14,066 --> 00:00:14,900
+resources efficiently.
+

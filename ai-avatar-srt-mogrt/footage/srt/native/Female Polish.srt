@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:02,117
+Wersja Template Bot jest dostarczana
+
+2
+00:00:02,117 --> 00:00:04,235
+z funkcją, która sprawia,
+
+3
+00:00:04,235 --> 00:00:06,352
+że template zachowuje się
+
+4
+00:00:06,352 --> 00:00:08,470
+jak robot obsługujący After
+
+5
+00:00:08,470 --> 00:00:09,000
+Effects.
+
+6
+00:00:09,500 --> 00:00:11,653
+Ta funkcja, zwana botem,
+
+7
+00:00:11,653 --> 00:00:13,807
+działa w tle, obserwując
+
+8
+00:00:13,807 --> 00:00:15,961
+przychodzące dane i renderując
+
+9
+00:00:15,961 --> 00:00:16,500
+wideo.
+
+10
+00:00:17,000 --> 00:00:18,636
+Kiedy już Twój projekt
+
+11
+00:00:18,636 --> 00:00:20,272
+AE zostanie przygotowany do
+
+12
+00:00:20,272 --> 00:00:21,500
+użytku z templaterem,
+
+13
+00:00:21,500 --> 00:00:23,357
+możesz użyć bote do
+
+14
+00:00:23,357 --> 00:00:25,214
+jego dostosowania i renderowania
+
+15
+00:00:25,214 --> 00:00:27,071
+bez obsługi interfejsu użytkownika
+
+16
+00:00:27,071 --> 00:00:28,000
+After Effects.
+
+17
+00:00:29,000 --> 00:00:30,818
+Renderowanie odbywa się automatycznie
+
+18
+00:00:30,818 --> 00:00:32,636
+po przesłaniu nowych danych
+
+19
+00:00:32,636 --> 00:00:34,000
+do źródła danych.
+
+20
+00:00:35,000 --> 00:00:37,000
+Programiści mogą tworzyć aplikacje
+
+21
+00:00:37,000 --> 00:00:39,000
+front-end, takie jak aplikacje
+
+22
+00:00:39,000 --> 00:00:40,500
+internetowe lub mobilne,
+
+23
+00:00:40,500 --> 00:00:42,214
+które dostarczają dane do
+
+24
+00:00:42,214 --> 00:00:43,500
+źródła danych templatera,
+
+25
+00:00:43,500 --> 00:00:46,000
+oferując wspólne, niestandardowe rozwiązanie
+
+26
+00:00:46,000 --> 00:00:48,500
+do tworzenia treści wideo.
+

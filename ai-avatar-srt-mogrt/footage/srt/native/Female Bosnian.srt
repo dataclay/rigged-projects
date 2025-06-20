@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:02,290
+QUE uključuje API koji
+
+2
+00:00:02,290 --> 00:00:04,581
+olakšava izradu aplikacija koje
+
+3
+00:00:04,581 --> 00:00:06,300
+integriraju dinamičke videozapise.
+
+4
+00:00:06,900 --> 00:00:08,728
+To otvara svijet mogućnosti
+
+5
+00:00:08,728 --> 00:00:10,557
+za uzbudljiva nova iskustva
+
+6
+00:00:10,557 --> 00:00:12,385
+kupaca i potpuno nove
+
+7
+00:00:12,385 --> 00:00:13,300
+poslovne modele.
+
+8
+00:00:14,000 --> 00:00:15,766
+Najbolje od svega, ne
+
+9
+00:00:15,766 --> 00:00:17,533
+morate biti programer softvera
+
+10
+00:00:17,533 --> 00:00:19,300
+da biste koristili API.
+

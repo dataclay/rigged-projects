@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:01,750
+The Templater Bot comes
+
+2
+00:00:01,750 --> 00:00:03,500
+with a feature that
+
+3
+00:00:03,500 --> 00:00:05,250
+makes Templater behave like
+
+4
+00:00:05,250 --> 00:00:07,000
+an After Effects-enabled bot.
+
+5
+00:00:07,000 --> 00:00:08,846
+This feature runs in
+
+6
+00:00:08,846 --> 00:00:10,692
+the background, observing incoming
+
+7
+00:00:10,692 --> 00:00:12,538
+data and rendering new
+
+8
+00:00:12,538 --> 00:00:13,000
+video.
+
+9
+00:00:13,000 --> 00:00:14,391
+Once your AE project
+
+10
+00:00:14,391 --> 00:00:15,782
+is ready for use
+
+11
+00:00:15,782 --> 00:00:17,173
+with Templater, you can
+
+12
+00:00:17,173 --> 00:00:18,565
+use bot to customize
+
+13
+00:00:18,565 --> 00:00:19,956
+and render it without
+
+14
+00:00:19,956 --> 00:00:21,000
+After Effects UI.
+
+15
+00:00:21,000 --> 00:00:23,000
+Rendering occurs automatically when
+
+16
+00:00:23,000 --> 00:00:25,000
+new data is transferred
+
+17
+00:00:25,000 --> 00:00:27,000
+to the data source.
+
+18
+00:00:27,000 --> 00:00:28,777
+Developers can create front-end
+
+19
+00:00:28,777 --> 00:00:30,555
+applications, such as web
+
+20
+00:00:30,555 --> 00:00:32,333
+or mobile apps, that
+
+21
+00:00:32,333 --> 00:00:34,111
+feed data into the
+
+22
+00:00:34,111 --> 00:00:35,888
+Templater data feed, offering
+
+23
+00:00:35,888 --> 00:00:37,666
+a common, custom video
+
+24
+00:00:37,666 --> 00:00:39,000
+content creation solution.
+

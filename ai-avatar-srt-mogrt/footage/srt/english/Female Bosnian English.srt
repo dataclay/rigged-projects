@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:01,600
+QUE includes an API
+
+2
+00:00:01,600 --> 00:00:03,200
+that makes it easy
+
+3
+00:00:03,200 --> 00:00:04,800
+to build applications that
+
+4
+00:00:04,800 --> 00:00:06,000
+integrate dynamic videos.
+
+5
+00:00:06,000 --> 00:00:07,411
+This opens up a
+
+6
+00:00:07,411 --> 00:00:08,823
+world of possibilities for
+
+7
+00:00:08,823 --> 00:00:10,235
+exciting new customer experiences
+
+8
+00:00:10,235 --> 00:00:11,647
+and entirely new business
+
+9
+00:00:11,647 --> 00:00:12,000
+models.
+
+10
+00:00:12,000 --> 00:00:13,142
+Best of all, you
+
+11
+00:00:13,142 --> 00:00:14,285
+don't have to be
+
+12
+00:00:14,285 --> 00:00:15,428
+a software developer to
+
+13
+00:00:15,428 --> 00:00:16,000
+use Q.
+

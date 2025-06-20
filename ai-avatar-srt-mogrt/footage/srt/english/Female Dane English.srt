@@ -1,0 +1,48 @@
+1
+00:00:00,050 --> 00:00:01,588
+QUE campaigns are collections
+
+2
+00:00:01,588 --> 00:00:03,126
+of jobs that keep
+
+3
+00:00:03,126 --> 00:00:04,665
+your data organized and
+
+4
+00:00:04,665 --> 00:00:05,050
+secure.
+
+5
+00:00:05,050 --> 00:00:06,280
+An agency can, for
+
+6
+00:00:06,280 --> 00:00:07,511
+example, have one campaign
+
+7
+00:00:07,511 --> 00:00:08,742
+for each of its
+
+8
+00:00:08,742 --> 00:00:09,050
+customers
+
+9
+00:00:09,050 --> 00:00:10,300
+and can grant access
+
+10
+00:00:10,300 --> 00:00:11,550
+to only a particular
+
+11
+00:00:11,550 --> 00:00:12,800
+campaign to users authorized
+
+12
+00:00:12,800 --> 00:00:14,050
+to work on it.
+

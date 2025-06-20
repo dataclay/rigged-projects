@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:01,411
+QUE Jobs are a set
+
+2
+00:00:01,411 --> 00:00:02,823
+of properties that can
+
+3
+00:00:02,823 --> 00:00:04,235
+be applied to one
+
+4
+00:00:04,235 --> 00:00:05,647
+or more After Effects
+
+5
+00:00:05,647 --> 00:00:06,000
+templates.
+
+6
+00:00:06,000 --> 00:00:07,692
+These properties contain optimization
+
+7
+00:00:07,692 --> 00:00:09,384
+data for your videos
+
+8
+00:00:09,384 --> 00:00:11,076
+as well as configurations
+
+9
+00:00:11,076 --> 00:00:12,769
+for how After Effects
+
+10
+00:00:12,769 --> 00:00:14,461
+should render them, such
+
+11
+00:00:14,461 --> 00:00:16,153
+as resolution settings and
+
+12
+00:00:16,153 --> 00:00:17,000
+output formats.
+

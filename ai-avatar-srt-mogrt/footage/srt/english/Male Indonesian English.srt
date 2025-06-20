@@ -1,0 +1,80 @@
+1
+00:00:00,000 --> 00:00:01,473
+Templater was created to
+
+2
+00:00:01,473 --> 00:00:02,947
+improve the process and
+
+3
+00:00:02,947 --> 00:00:04,421
+workflow of targeted video
+
+4
+00:00:04,421 --> 00:00:05,894
+production based on various
+
+5
+00:00:05,894 --> 00:00:07,000
+external data sources.
+
+6
+00:00:07,000 --> 00:00:08,714
+As organizations mine and
+
+7
+00:00:08,714 --> 00:00:10,000
+store more information,
+
+8
+00:00:10,000 --> 00:00:11,111
+they need ways to
+
+9
+00:00:11,111 --> 00:00:12,222
+leverage this data to
+
+10
+00:00:12,222 --> 00:00:13,333
+create meaningful relationships with
+
+11
+00:00:13,333 --> 00:00:14,444
+customers in markets around
+
+12
+00:00:14,444 --> 00:00:15,000
+the world.
+
+13
+00:00:15,000 --> 00:00:16,333
+Big data can drive
+
+14
+00:00:16,333 --> 00:00:17,000
+media content,
+
+15
+00:00:17,000 --> 00:00:18,272
+but video producers need
+
+16
+00:00:18,272 --> 00:00:19,545
+a way to easily
+
+17
+00:00:19,545 --> 00:00:20,818
+incorporate information into custom
+
+18
+00:00:20,818 --> 00:00:22,090
+videos without the hassle
+
+19
+00:00:22,090 --> 00:00:23,363
+of replacing assets one
+
+20
+00:00:23,363 --> 00:00:24,000
+by one.
+

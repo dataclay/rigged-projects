@@ -1,0 +1,52 @@
+1
+00:00:00,050 --> 00:00:01,573
+For you render wranglers
+
+2
+00:00:01,573 --> 00:00:03,097
+out there, QUE provides
+
+3
+00:00:03,097 --> 00:00:04,621
+a dashboard to keep
+
+4
+00:00:04,621 --> 00:00:06,145
+an eye on the
+
+5
+00:00:06,145 --> 00:00:07,669
+state of your rendering
+
+6
+00:00:07,669 --> 00:00:08,050
+operations.
+
+7
+00:00:08,050 --> 00:00:09,383
+At a glance, you
+
+8
+00:00:09,383 --> 00:00:10,716
+can see the status
+
+9
+00:00:10,716 --> 00:00:12,050
+of each render job,
+
+10
+00:00:12,050 --> 00:00:14,050
+utilization rates of each
+
+11
+00:00:14,050 --> 00:00:15,050
+rendering machine,
+
+12
+00:00:15,050 --> 00:00:17,050
+when each machine was
+
+13
+00:00:17,050 --> 00:00:19,050
+last active and more.
+

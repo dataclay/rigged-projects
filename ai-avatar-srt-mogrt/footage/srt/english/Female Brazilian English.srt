@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:01,714
+Each Templater Edition offers
+
+2
+00:00:01,714 --> 00:00:03,000
+a unique superpower.
+
+3
+00:00:03,000 --> 00:00:04,600
+Templater Rig provides the
+
+4
+00:00:04,600 --> 00:00:06,200
+tools to prepare an
+
+5
+00:00:06,200 --> 00:00:07,800
+After Effects project file
+
+6
+00:00:07,800 --> 00:00:09,000
+for dynamic content.
+
+7
+00:00:09,000 --> 00:00:10,411
+Map your data to
+
+8
+00:00:10,411 --> 00:00:11,823
+composite layers and visualize
+
+9
+00:00:11,823 --> 00:00:13,235
+how these layers change
+
+10
+00:00:13,235 --> 00:00:14,647
+as the data is
+
+11
+00:00:14,647 --> 00:00:15,000
+processed.
+

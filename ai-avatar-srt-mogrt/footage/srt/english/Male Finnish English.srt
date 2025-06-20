@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:01,454
+Dataclay was founded in
+
+2
+00:00:01,454 --> 00:00:02,909
+2014 with a simple
+
+3
+00:00:02,909 --> 00:00:04,000
+but important mission.
+
+4
+00:00:04,000 --> 00:00:05,333
+To free video content
+
+5
+00:00:05,333 --> 00:00:06,666
+creators from the inefficiencies
+
+6
+00:00:06,666 --> 00:00:08,000
+of trivial data entry
+
+7
+00:00:08,000 --> 00:00:09,333
+and empower them to
+
+8
+00:00:09,333 --> 00:00:10,666
+develop larger volumes of
+
+9
+00:00:10,666 --> 00:00:12,000
+higher quality content in
+
+10
+00:00:12,000 --> 00:00:13,333
+less time and at
+
+11
+00:00:13,333 --> 00:00:14,000
+less cost.
+

@@ -1,0 +1,32 @@
+1
+00:00:00,050 --> 00:00:03,078
+Dataclay perustettiin vuonna 2014
+
+2
+00:00:03,078 --> 00:00:06,107
+yksinkertaisella, mutta tärkeällä tehtävällä
+
+3
+00:00:06,107 --> 00:00:09,135
+vapauttaa videosisällöntekijät vähäpätöisten tietojen
+
+4
+00:00:09,135 --> 00:00:10,650
+syöttämisen tehottomuudesta
+
+5
+00:00:10,650 --> 00:00:12,742
+ja antaa heille mahdollisuus
+
+6
+00:00:12,742 --> 00:00:14,834
+kehittää suurempia määriä laadukkaampaa
+
+7
+00:00:14,834 --> 00:00:16,926
+sisältöä lyhyemmässä ajassa ja
+
+8
+00:00:16,926 --> 00:00:17,450
+halvemmalla.
+

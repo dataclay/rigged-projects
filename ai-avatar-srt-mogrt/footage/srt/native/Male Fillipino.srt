@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:01,428
+Para sa iyong mga
+
+2
+00:00:01,428 --> 00:00:02,500
+Wrangler sa pag-render,
+
+3
+00:00:02,500 --> 00:00:03,750
+diyan, nagbibigay ang QUE
+
+4
+00:00:03,750 --> 00:00:05,000
+ng dashboard upang mabantayan
+
+5
+00:00:05,000 --> 00:00:06,500
+ang estado ng iyong
+
+6
+00:00:06,500 --> 00:00:08,000
+mga operasyon sa pag-render.
+
+7
+00:00:08,000 --> 00:00:09,200
+Sa isang sulyap, makikita
+
+8
+00:00:09,200 --> 00:00:10,400
+mo ang status ng
+
+9
+00:00:10,400 --> 00:00:11,000
+bawat trabaho,
+
+10
+00:00:11,000 --> 00:00:12,500
+mga rate ng paggamit
+
+11
+00:00:12,500 --> 00:00:14,000
+ng bawat rendering machine,
+
+12
+00:00:14,000 --> 00:00:15,200
+kung kailan huling aktibo
+
+13
+00:00:15,200 --> 00:00:16,400
+ang bawat machine, at
+
+14
+00:00:16,400 --> 00:00:17,000
+higit pa.
+

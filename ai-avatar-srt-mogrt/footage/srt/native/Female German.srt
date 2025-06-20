@@ -1,0 +1,44 @@
+1
+00:00:00,050 --> 00:00:02,551
+Templater Boot, seine Befehlszeilenschnittstelle
+
+2
+00:00:02,551 --> 00:00:05,053
+und seine API ermöglichen
+
+3
+00:00:05,053 --> 00:00:06,930
+Ihnen die vollautomatische
+
+4
+00:00:06,930 --> 00:00:09,106
+Erstellung maßgeschneiderter Videos auf
+
+5
+00:00:09,106 --> 00:00:09,650
+Abruf.
+
+6
+00:00:09,650 --> 00:00:11,850
+Unsere Software wird weltweit
+
+7
+00:00:11,850 --> 00:00:14,050
+von kleinen Studios und
+
+8
+00:00:14,050 --> 00:00:16,250
+großen Unternehmen wie Netflix,
+
+9
+00:00:16,250 --> 00:00:18,586
+Apple, NBC Universal, Electronic
+
+10
+00:00:18,586 --> 00:00:20,922
+Art, der NFL und
+
+11
+00:00:20,922 --> 00:00:22,090
+SXSW verwendet.
+
