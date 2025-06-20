@@ -1,0 +1,162 @@
+[
+	{
+		"ID": "json_dyn",
+		"title": "Create Dynamic Renders",
+		"title@style": { "font-face" : "Arial-BoldMT" },
+		"caption-1": "Prepare AE projects!",
+		"caption-2": "parameterized rendering",
+		"album-cover": "covers/vangelis-spiral.jpg",
+		"disc-face": "discs/vangelis-spiral.png",
+		"tint": "89B85C"
+	},
+	{
+		"ID": "json_fit",
+		"title": "Automatic Fitting",
+		"title@style": { "font-face" : "CourierNewPSMT" },
+		"caption-1": "Auto scales your data",
+		"caption-2": "to fit your layout",
+		"album-cover": "covers/gatsby.jpg",
+		"disc-face": "discs/gatsby.png",
+		"tint": "684489"
+	},
+	{
+		"ID": "json_easy",
+		"title": "Easy Alignment",
+		"title@style": { "font-face" : "Georgia-Bold" },
+		"caption-1": "Align dynamic elements",
+		"caption-2": "for perfect renders",
+		"album-cover": "covers/achtung-baby.jpg",
+		"disc-face": "discs/achtung.png",
+		"tint": "D369B3"
+	},
+	{
+		"ID": "json_punc",
+		"title": "Supported Punctuation:,`, ' ; \" !.",
+		"title@style": { "font-face" : "TimesNewRomanPSMT" },
+		"caption-1": "No more string issues now!,",
+		"caption-2": "just type and it appears",
+		"album-cover": "covers/beasties-hot-sauce.jpg.bad",
+		"disc-face": "discs/hot-sauce.png",
+		"tint": "7CF9E8"
+	},
+	{
+		"ID": "json_utf8",
+		"title": "UTF-8 Supported Ü™ß¥¢∏∞≈Ω",
+		"title@style": { "font-face" : "Verdana-Bold" },
+		"caption-1": "Easily localize your text",
+		"caption-2": "with supporting fonts",
+		"album-cover": "covers/daft-punk.jpg",
+		"disc-face": "discs/daft.png",
+		"tint": "463367"
+	},
+	{
+		"ID": "json_prev",
+		"title": "Preview Specific Jobs",
+		"title@style": { "font-face" : "TrebuchetMS" },
+		"caption-1": "Preview comp layout",
+		"caption-2": "with any row of data",
+		"album-cover": "covers/back-to-the-future.jpg",
+		"disc-face": "discs/back-to-future.png.bad",
+		"tint": "356941"
+	},
+	{
+		"ID": "json_tmpl",
+		"title": "Apply Render Templates",
+		"title@style": { "font-face" : "Impact" },
+		"caption-1": "Use existing render settings",
+		"caption-2": "templates on each render",
+		"album-cover": "covers/velvet-underground-nico.jpg",
+		"disc-face": "discs/velvet-underground-nico.png",
+		"tint": "E67373"
+	},
+	{
+		"ID": "json_out",
+		"title": "Use Existing Output Modules",
+		"title@style": { "font-face" : "Tahoma" },
+		"caption-1": "Use output modules",
+		"caption-2": "for entire batch",
+		"album-cover": "covers/tron.jpg",
+		"disc-face": "discs/tron.png",
+		"tint": "FFFD80"
+	},
+	{
+		"ID": "json_rows",
+		"title": "Target Specific Rows",
+		"title@style": { "font-face" : "ComicSansMS" },
+		"caption-1": "Render specific sets",
+		"caption-2": "of jobs from batch",
+		"album-cover": "covers/ennio-morricone.jpg",
+		"disc-face": "discs/ennio.png",
+		"tint": "3C6279"
+	},
+	{
+		"ID": "json_files",
+		"title": "Manage Output Files",
+		"title@style": { "font-face" : "Arial-BoldMT" },
+		"caption-1": "Save batch output",
+		"caption-2": "to any folder",
+		"album-cover": "covers/beasties-hot-sauce.jpg",
+		"disc-face": "discs/hot-sauce.png",
+		"tint": "8951A3"
+	},
+	{
+		"ID": "json_names",
+		"title": "Prefix Output Filenames",
+		"title@style": { "font-face" : "CourierNewPSMT" },
+		"caption-1": "Identify batch renders",
+		"caption-2": "with file prefixes",
+		"album-cover": "covers/rolling-stones.jpg",
+		"disc-face": "discs/stones.png",
+		"tint": "64C767"
+	},
+	{
+		"ID": "json_clean",
+		"title": "Clean Project Panel",
+		"title@style": { "font-face" : "Georgia-Bold" },
+		"caption-1": "Organizes imported footage",
+		"caption-2": "within project panel",
+		"album-cover": "covers/let-it-be.jpg",
+		"disc-face": "discs/beatles.png",
+		"tint": "203F2A"
+	},
+	{
+		"ID": "json_ease",
+		"title": "Rig AE Project With Ease",
+		"title@style": { "font-face" : "TimesNewRomanPSMT" },
+		"caption-1": "Uses a custom effect",
+		"caption-2": "to tag dynamic layers",
+		"album-cover": "covers/beasties-ill-comm.jpg",
+		"disc-face": "discs/beasties-ill-comm.png",
+		"tint": "5D458A"
+	},
+	{
+		"ID": "json_bigd",
+		"title": "Ready for Big Data",
+		"title@style": { "font-face" : "Verdana-Bold" },
+		"caption-1": "Makes AE templates",
+		"caption-2": "more flexible",
+		"album-cover": "covers/yes-fragile.jpg",
+		"disc-face": "discs/yes-fragile.png",
+		"tint": "EEE477"
+	},
+	{
+		"ID": "json_target",
+		"title": "Create Targeted Video Ads",
+		"title@style": { "font-face" : "TrebuchetMS" },
+		"caption-1": "Deliver sets of renders",
+		"caption-2": "for agencies",
+		"album-cover": "covers/yes-oceans.jpg",
+		"disc-face": "discs/yes-oceans.png",
+		"tint": "2D3A1D"
+	},
+	{
+		"ID": "json_sheet",
+		"title": "Google Spreadsheet Support",
+		"title@style": { "font-face" : "Arial-BoldMT" },
+		"caption-1": "Use public or private",
+		"caption-2": "spreadsheet URLs",
+		"album-cover": "covers/beasties-license-to-ill.jpg",
+		"disc-face": "discs/beasties-license-to-ill.png",
+		"tint": "0"
+	}
+]
