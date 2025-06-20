@@ -1,0 +1,38 @@
+[
+ {
+   "sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+   "wordstart": 1,
+   "wordend": 2,
+   "color": "FD4759"
+ },
+ {
+   "sentence": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+   "wordstart": 3,
+   "wordend": 5,
+   "color": "32803B"
+ },
+ {
+   "sentence": "Ut enim ad minim veniam.",
+   "wordstart": 5,
+   "wordend": 6,
+   "color": "63CC6F"
+ },
+ {
+   "sentence": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+   "wordstart": 7,
+   "wordend": 10,
+   "color": "824d92"
+ },
+ {
+   "sentence": "Duis aute irure dolor in reprehenderit in voluptate velit.",
+   "wordstart": 2,
+   "wordend": 6,
+   "color": "FB3E75"
+ },
+ {
+   "sentence": "Esse cillum dolore eu fugiat nulla pariatur.",
+   "wordstart": 4,
+   "wordend": 5,
+   "color": "DD671F"
+ }
+]
