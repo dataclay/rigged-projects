@@ -71,7 +71,7 @@ Each example Autograf is organized in sub-folders. The following Autografs are i
 ### display-albums
 
 >![Preview of the display-albums Autograf](display-albums/preview-display-albums.png)
->The very first Autograf built with Templater!  This is a relic from the Templater 1.0 days, but it still works flawlessly. It shows text, footage, and solid layers mapped to a sample data set of music albums by various artists. Some references to footage assets in [the sample data](display-albums/data/albums.json) are invalid by design so you can see how Templater handles faulty footage.  You can also see what the purpose of the `target` property is when performing batch output operations.  With the `target` property, [you can have Templater output a specific composition](https://support.dataclay.com/templater/content/concepts/output/target_composition.htm) within the project.
+>The very first Autograf built with Templater!  This is a relic from the Templater 1.0 days, but it still works flawlessly. It shows text, footage, and solid layers mapped to a sample data set of music albums by various artists. Also, you can see how fonts specified in data can update a text layer's character style.  Some references to footage assets in [the sample data](display-albums/data/albums.json) are invalid by design so you can see how Templater handles faulty footage.  You can also see what the purpose of the `target` property is when performing batch output operations.  With the `target` property, [you can have Templater output a specific composition](https://support.dataclay.com/templater/content/concepts/output/target_composition.htm) within the project.
 
 ### text-animators-highlight
 
@@ -89,7 +89,7 @@ If you want the real nitty gritty on Templater, head over to [our official docum
 
 ## Contributing
 
-At Dataclay, on of our goals is to create a community of motion designers and developers who want to push video automation techniques forward. Do you have an awesome Autograf that you want to share with the community?  If so, feel free to setup a folder structure for your Autograf in the following manner:
+At Dataclay, one of our goals is to create a community of motion designers and developers who want to push video automation techniques forward. Do you have an awesome Autograf that you want to share with the community?  If so, feel free to setup a folder structure for your Autograf in the following manner:
 
 + `My Beautiful Autograf`\
   The root of your Autograf can hold a preview image of what it looks like when opened inside After Effects, similar to the preview images in this readme.  You can also provide a `README.md` file that explains how to use your Autograf.
