@@ -6,11 +6,14 @@ These examples focus on the technical side of rigging layers and comps for autom
 
 If you would like to see commercially available Autografs available to license, please [visit Dataclay's marketplace](https://dataclay.com/autografs) to see some truly beautiful designs with impressive technical rigging.
 
+![Preview of example autografs in action](example-autografs.gif)
+
 ## What is an Autograf?
 
 An Autograf is an After Effects project authored with Dataclay's Templater plugin. It is an After Effects project that is prepared for automatic versioning and rendering.
 
 In most cases, Autografs ship with:
+
 + an After Effects project file prepared for Templater automation, and
 + sample data that is structured according to how the author rigged the Autograf.
 
@@ -91,16 +94,16 @@ At Dataclay, on of our goals is to create a community of motion designers and de
 + `My Beautiful Autograf`\
   The root of your Autograf can hold a preview image of what it looks like when opened inside After Effects, similar to the preview images in this readme.  You can also provide a `README.md` file that explains how to use your Autograf.
 
-  - `/projects`\
+  + `/projects`\
     A subfolder that holds your After Effects project file you authored with Templater.
 
-  - `/data`\
+  + `/data`\
     A subfolder that holds sample data in JSON format.  Your sample data set can be small or large — usually a minimum of about ten rows and a maximum of 100 work well for sample data.
 
-  - `/footage`\
+  + `/footage`\
     A subfolder that holds any static footage assets used in the AE project or referenced from the data source.  Please consider the byte size of the assets as storage can become an issue upon committing.
 
-  - `/output`\
+  + `/output`\
     A placeholder subfolder users can reference for Templater's output destination. This repository's `.gitignore` will not track any digital assets within the `/output` folder, but it's useful to have as a placeholder for Templater's users.
 
 Issue a pull request and the Dataclay team will review your work to merge it into this repository.  We are grateful for your contribution!
